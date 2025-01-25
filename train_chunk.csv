@@ -1,0 +1,1082 @@
+Unnamed: 0,id,date,country,store,product,num_sold
+0,0,2010-01-01,Canada,Discount Stickers,Holographic Goose,
+1,1,2010-01-01,Canada,Discount Stickers,Kaggle,973.0
+2,2,2010-01-01,Canada,Discount Stickers,Kaggle Tiers,906.0
+3,3,2010-01-01,Canada,Discount Stickers,Kerneler,423.0
+4,4,2010-01-01,Canada,Discount Stickers,Kerneler Dark Mode,491.0
+5,5,2010-01-01,Canada,Stickers for Less,Holographic Goose,300.0
+6,6,2010-01-01,Canada,Stickers for Less,Kaggle,1837.0
+7,7,2010-01-01,Canada,Stickers for Less,Kaggle Tiers,1659.0
+8,8,2010-01-01,Canada,Stickers for Less,Kerneler,807.0
+9,9,2010-01-01,Canada,Stickers for Less,Kerneler Dark Mode,940.0
+10,10,2010-01-01,Canada,Premium Sticker Mart,Holographic Goose,375.0
+11,11,2010-01-01,Canada,Premium Sticker Mart,Kaggle,2212.0
+12,12,2010-01-01,Canada,Premium Sticker Mart,Kaggle Tiers,2013.0
+13,13,2010-01-01,Canada,Premium Sticker Mart,Kerneler,950.0
+14,14,2010-01-01,Canada,Premium Sticker Mart,Kerneler Dark Mode,1213.0
+15,15,2010-01-01,Finland,Discount Stickers,Holographic Goose,150.0
+16,16,2010-01-01,Finland,Discount Stickers,Kaggle,926.0
+17,17,2010-01-01,Finland,Discount Stickers,Kaggle Tiers,774.0
+18,18,2010-01-01,Finland,Discount Stickers,Kerneler,424.0
+19,19,2010-01-01,Finland,Discount Stickers,Kerneler Dark Mode,450.0
+20,20,2010-01-01,Finland,Stickers for Less,Holographic Goose,311.0
+21,21,2010-01-01,Finland,Stickers for Less,Kaggle,1948.0
+22,22,2010-01-01,Finland,Stickers for Less,Kaggle Tiers,1632.0
+23,23,2010-01-01,Finland,Stickers for Less,Kerneler,878.0
+24,24,2010-01-01,Finland,Stickers for Less,Kerneler Dark Mode,950.0
+25,25,2010-01-01,Finland,Premium Sticker Mart,Holographic Goose,362.0
+26,26,2010-01-01,Finland,Premium Sticker Mart,Kaggle,2304.0
+27,27,2010-01-01,Finland,Premium Sticker Mart,Kaggle Tiers,2070.0
+28,28,2010-01-01,Finland,Premium Sticker Mart,Kerneler,1134.0
+29,29,2010-01-01,Finland,Premium Sticker Mart,Kerneler Dark Mode,1047.0
+30,30,2010-01-01,Italy,Discount Stickers,Holographic Goose,110.0
+31,31,2010-01-01,Italy,Discount Stickers,Kaggle,681.0
+32,32,2010-01-01,Italy,Discount Stickers,Kaggle Tiers,627.0
+33,33,2010-01-01,Italy,Discount Stickers,Kerneler,340.0
+34,34,2010-01-01,Italy,Discount Stickers,Kerneler Dark Mode,406.0
+35,35,2010-01-01,Italy,Stickers for Less,Holographic Goose,228.0
+36,36,2010-01-01,Italy,Stickers for Less,Kaggle,1424.0
+37,37,2010-01-01,Italy,Stickers for Less,Kaggle Tiers,1281.0
+38,38,2010-01-01,Italy,Stickers for Less,Kerneler,637.0
+39,39,2010-01-01,Italy,Stickers for Less,Kerneler Dark Mode,778.0
+40,40,2010-01-01,Italy,Premium Sticker Mart,Holographic Goose,269.0
+41,41,2010-01-01,Italy,Premium Sticker Mart,Kaggle,1786.0
+42,42,2010-01-01,Italy,Premium Sticker Mart,Kaggle Tiers,1434.0
+43,43,2010-01-01,Italy,Premium Sticker Mart,Kerneler,783.0
+44,44,2010-01-01,Italy,Premium Sticker Mart,Kerneler Dark Mode,861.0
+45,45,2010-01-01,Kenya,Discount Stickers,Holographic Goose,
+46,46,2010-01-01,Kenya,Discount Stickers,Kaggle,20.0
+47,47,2010-01-01,Kenya,Discount Stickers,Kaggle Tiers,16.0
+48,48,2010-01-01,Kenya,Discount Stickers,Kerneler,8.0
+49,49,2010-01-01,Kenya,Discount Stickers,Kerneler Dark Mode,9.0
+50,50,2010-01-01,Kenya,Stickers for Less,Holographic Goose,5.0
+51,51,2010-01-01,Kenya,Stickers for Less,Kaggle,40.0
+52,52,2010-01-01,Kenya,Stickers for Less,Kaggle Tiers,32.0
+53,53,2010-01-01,Kenya,Stickers for Less,Kerneler,17.0
+54,54,2010-01-01,Kenya,Stickers for Less,Kerneler Dark Mode,19.0
+55,55,2010-01-01,Kenya,Premium Sticker Mart,Holographic Goose,7.0
+56,56,2010-01-01,Kenya,Premium Sticker Mart,Kaggle,41.0
+57,57,2010-01-01,Kenya,Premium Sticker Mart,Kaggle Tiers,37.0
+58,58,2010-01-01,Kenya,Premium Sticker Mart,Kerneler,20.0
+59,59,2010-01-01,Kenya,Premium Sticker Mart,Kerneler Dark Mode,22.0
+60,60,2010-01-01,Norway,Discount Stickers,Holographic Goose,261.0
+61,61,2010-01-01,Norway,Discount Stickers,Kaggle,1692.0
+62,62,2010-01-01,Norway,Discount Stickers,Kaggle Tiers,1525.0
+63,63,2010-01-01,Norway,Discount Stickers,Kerneler,791.0
+64,64,2010-01-01,Norway,Discount Stickers,Kerneler Dark Mode,911.0
+65,65,2010-01-01,Norway,Stickers for Less,Holographic Goose,579.0
+66,66,2010-01-01,Norway,Stickers for Less,Kaggle,3369.0
+67,67,2010-01-01,Norway,Stickers for Less,Kaggle Tiers,3195.0
+68,68,2010-01-01,Norway,Stickers for Less,Kerneler,1606.0
+69,69,2010-01-01,Norway,Stickers for Less,Kerneler Dark Mode,1672.0
+70,70,2010-01-01,Norway,Premium Sticker Mart,Holographic Goose,625.0
+71,71,2010-01-01,Norway,Premium Sticker Mart,Kaggle,3940.0
+72,72,2010-01-01,Norway,Premium Sticker Mart,Kaggle Tiers,3430.0
+73,73,2010-01-01,Norway,Premium Sticker Mart,Kerneler,1951.0
+74,74,2010-01-01,Norway,Premium Sticker Mart,Kerneler Dark Mode,2376.0
+75,75,2010-01-01,Singapore,Discount Stickers,Holographic Goose,150.0
+76,76,2010-01-01,Singapore,Discount Stickers,Kaggle,939.0
+77,77,2010-01-01,Singapore,Discount Stickers,Kaggle Tiers,768.0
+78,78,2010-01-01,Singapore,Discount Stickers,Kerneler,405.0
+79,79,2010-01-01,Singapore,Discount Stickers,Kerneler Dark Mode,495.0
+80,80,2010-01-01,Singapore,Stickers for Less,Holographic Goose,301.0
+81,81,2010-01-01,Singapore,Stickers for Less,Kaggle,1981.0
+82,82,2010-01-01,Singapore,Stickers for Less,Kaggle Tiers,1565.0
+83,83,2010-01-01,Singapore,Stickers for Less,Kerneler,841.0
+84,84,2010-01-01,Singapore,Stickers for Less,Kerneler Dark Mode,1080.0
+85,85,2010-01-01,Singapore,Premium Sticker Mart,Holographic Goose,317.0
+86,86,2010-01-01,Singapore,Premium Sticker Mart,Kaggle,2112.0
+87,87,2010-01-01,Singapore,Premium Sticker Mart,Kaggle Tiers,1992.0
+88,88,2010-01-01,Singapore,Premium Sticker Mart,Kerneler,1045.0
+89,89,2010-01-01,Singapore,Premium Sticker Mart,Kerneler Dark Mode,1255.0
+90,90,2010-01-02,Canada,Discount Stickers,Holographic Goose,
+91,91,2010-01-02,Canada,Discount Stickers,Kaggle,881.0
+92,92,2010-01-02,Canada,Discount Stickers,Kaggle Tiers,854.0
+93,93,2010-01-02,Canada,Discount Stickers,Kerneler,440.0
+94,94,2010-01-02,Canada,Discount Stickers,Kerneler Dark Mode,437.0
+95,95,2010-01-02,Canada,Stickers for Less,Holographic Goose,281.0
+96,96,2010-01-02,Canada,Stickers for Less,Kaggle,1972.0
+97,97,2010-01-02,Canada,Stickers for Less,Kaggle Tiers,1541.0
+98,98,2010-01-02,Canada,Stickers for Less,Kerneler,783.0
+99,99,2010-01-02,Canada,Stickers for Less,Kerneler Dark Mode,1068.0
+100,100,2010-01-02,Canada,Premium Sticker Mart,Holographic Goose,336.0
+101,101,2010-01-02,Canada,Premium Sticker Mart,Kaggle,2183.0
+102,102,2010-01-02,Canada,Premium Sticker Mart,Kaggle Tiers,1953.0
+103,103,2010-01-02,Canada,Premium Sticker Mart,Kerneler,895.0
+104,104,2010-01-02,Canada,Premium Sticker Mart,Kerneler Dark Mode,1217.0
+105,105,2010-01-02,Finland,Discount Stickers,Holographic Goose,127.0
+106,106,2010-01-02,Finland,Discount Stickers,Kaggle,869.0
+107,107,2010-01-02,Finland,Discount Stickers,Kaggle Tiers,764.0
+108,108,2010-01-02,Finland,Discount Stickers,Kerneler,417.0
+109,109,2010-01-02,Finland,Discount Stickers,Kerneler Dark Mode,440.0
+110,110,2010-01-02,Finland,Stickers for Less,Holographic Goose,287.0
+111,111,2010-01-02,Finland,Stickers for Less,Kaggle,1867.0
+112,112,2010-01-02,Finland,Stickers for Less,Kaggle Tiers,1559.0
+113,113,2010-01-02,Finland,Stickers for Less,Kerneler,741.0
+114,114,2010-01-02,Finland,Stickers for Less,Kerneler Dark Mode,994.0
+115,115,2010-01-02,Finland,Premium Sticker Mart,Holographic Goose,297.0
+116,116,2010-01-02,Finland,Premium Sticker Mart,Kaggle,1903.0
+117,117,2010-01-02,Finland,Premium Sticker Mart,Kaggle Tiers,2018.0
+118,118,2010-01-02,Finland,Premium Sticker Mart,Kerneler,949.0
+119,119,2010-01-02,Finland,Premium Sticker Mart,Kerneler Dark Mode,1120.0
+120,120,2010-01-02,Italy,Discount Stickers,Holographic Goose,107.0
+121,121,2010-01-02,Italy,Discount Stickers,Kaggle,743.0
+122,122,2010-01-02,Italy,Discount Stickers,Kaggle Tiers,569.0
+123,123,2010-01-02,Italy,Discount Stickers,Kerneler,319.0
+124,124,2010-01-02,Italy,Discount Stickers,Kerneler Dark Mode,374.0
+125,125,2010-01-02,Italy,Stickers for Less,Holographic Goose,226.0
+126,126,2010-01-02,Italy,Stickers for Less,Kaggle,1387.0
+127,127,2010-01-02,Italy,Stickers for Less,Kaggle Tiers,1072.0
+128,128,2010-01-02,Italy,Stickers for Less,Kerneler,604.0
+129,129,2010-01-02,Italy,Stickers for Less,Kerneler Dark Mode,691.0
+130,130,2010-01-02,Italy,Premium Sticker Mart,Holographic Goose,251.0
+131,131,2010-01-02,Italy,Premium Sticker Mart,Kaggle,1512.0
+132,132,2010-01-02,Italy,Premium Sticker Mart,Kaggle Tiers,1419.0
+133,133,2010-01-02,Italy,Premium Sticker Mart,Kerneler,729.0
+134,134,2010-01-02,Italy,Premium Sticker Mart,Kerneler Dark Mode,885.0
+135,135,2010-01-02,Kenya,Discount Stickers,Holographic Goose,
+136,136,2010-01-02,Kenya,Discount Stickers,Kaggle,16.0
+137,137,2010-01-02,Kenya,Discount Stickers,Kaggle Tiers,15.0
+138,138,2010-01-02,Kenya,Discount Stickers,Kerneler,8.0
+139,139,2010-01-02,Kenya,Discount Stickers,Kerneler Dark Mode,9.0
+140,140,2010-01-02,Kenya,Stickers for Less,Holographic Goose,5.0
+141,141,2010-01-02,Kenya,Stickers for Less,Kaggle,34.0
+142,142,2010-01-02,Kenya,Stickers for Less,Kaggle Tiers,34.0
+143,143,2010-01-02,Kenya,Stickers for Less,Kerneler,15.0
+144,144,2010-01-02,Kenya,Stickers for Less,Kerneler Dark Mode,20.0
+145,145,2010-01-02,Kenya,Premium Sticker Mart,Holographic Goose,6.0
+146,146,2010-01-02,Kenya,Premium Sticker Mart,Kaggle,42.0
+147,147,2010-01-02,Kenya,Premium Sticker Mart,Kaggle Tiers,38.0
+148,148,2010-01-02,Kenya,Premium Sticker Mart,Kerneler,21.0
+149,149,2010-01-02,Kenya,Premium Sticker Mart,Kerneler Dark Mode,23.0
+150,150,2010-01-02,Norway,Discount Stickers,Holographic Goose,274.0
+151,151,2010-01-02,Norway,Discount Stickers,Kaggle,1634.0
+152,152,2010-01-02,Norway,Discount Stickers,Kaggle Tiers,1508.0
+153,153,2010-01-02,Norway,Discount Stickers,Kerneler,799.0
+154,154,2010-01-02,Norway,Discount Stickers,Kerneler Dark Mode,884.0
+155,155,2010-01-02,Norway,Stickers for Less,Holographic Goose,475.0
+156,156,2010-01-02,Norway,Stickers for Less,Kaggle,3545.0
+157,157,2010-01-02,Norway,Stickers for Less,Kaggle Tiers,2784.0
+158,158,2010-01-02,Norway,Stickers for Less,Kerneler,1537.0
+159,159,2010-01-02,Norway,Stickers for Less,Kerneler Dark Mode,1907.0
+160,160,2010-01-02,Norway,Premium Sticker Mart,Holographic Goose,643.0
+161,161,2010-01-02,Norway,Premium Sticker Mart,Kaggle,3915.0
+162,162,2010-01-02,Norway,Premium Sticker Mart,Kaggle Tiers,3482.0
+163,163,2010-01-02,Norway,Premium Sticker Mart,Kerneler,1741.0
+164,164,2010-01-02,Norway,Premium Sticker Mart,Kerneler Dark Mode,2050.0
+165,165,2010-01-02,Singapore,Discount Stickers,Holographic Goose,146.0
+166,166,2010-01-02,Singapore,Discount Stickers,Kaggle,857.0
+167,167,2010-01-02,Singapore,Discount Stickers,Kaggle Tiers,792.0
+168,168,2010-01-02,Singapore,Discount Stickers,Kerneler,410.0
+169,169,2010-01-02,Singapore,Discount Stickers,Kerneler Dark Mode,468.0
+170,170,2010-01-02,Singapore,Stickers for Less,Holographic Goose,268.0
+171,171,2010-01-02,Singapore,Stickers for Less,Kaggle,1763.0
+172,172,2010-01-02,Singapore,Stickers for Less,Kaggle Tiers,1689.0
+173,173,2010-01-02,Singapore,Stickers for Less,Kerneler,781.0
+174,174,2010-01-02,Singapore,Stickers for Less,Kerneler Dark Mode,971.0
+175,175,2010-01-02,Singapore,Premium Sticker Mart,Holographic Goose,364.0
+176,176,2010-01-02,Singapore,Premium Sticker Mart,Kaggle,2322.0
+177,177,2010-01-02,Singapore,Premium Sticker Mart,Kaggle Tiers,1938.0
+178,178,2010-01-02,Singapore,Premium Sticker Mart,Kerneler,1010.0
+179,179,2010-01-02,Singapore,Premium Sticker Mart,Kerneler Dark Mode,1224.0
+180,180,2010-01-03,Canada,Discount Stickers,Holographic Goose,
+181,181,2010-01-03,Canada,Discount Stickers,Kaggle,1003.0
+182,182,2010-01-03,Canada,Discount Stickers,Kaggle Tiers,839.0
+183,183,2010-01-03,Canada,Discount Stickers,Kerneler,417.0
+184,184,2010-01-03,Canada,Discount Stickers,Kerneler Dark Mode,495.0
+185,185,2010-01-03,Canada,Stickers for Less,Holographic Goose,297.0
+186,186,2010-01-03,Canada,Stickers for Less,Kaggle,1936.0
+187,187,2010-01-03,Canada,Stickers for Less,Kaggle Tiers,1770.0
+188,188,2010-01-03,Canada,Stickers for Less,Kerneler,832.0
+189,189,2010-01-03,Canada,Stickers for Less,Kerneler Dark Mode,1087.0
+190,190,2010-01-03,Canada,Premium Sticker Mart,Holographic Goose,338.0
+191,191,2010-01-03,Canada,Premium Sticker Mart,Kaggle,2459.0
+192,192,2010-01-03,Canada,Premium Sticker Mart,Kaggle Tiers,1938.0
+193,193,2010-01-03,Canada,Premium Sticker Mart,Kerneler,1015.0
+194,194,2010-01-03,Canada,Premium Sticker Mart,Kerneler Dark Mode,1188.0
+195,195,2010-01-03,Finland,Discount Stickers,Holographic Goose,152.0
+196,196,2010-01-03,Finland,Discount Stickers,Kaggle,1036.0
+197,197,2010-01-03,Finland,Discount Stickers,Kaggle Tiers,815.0
+198,198,2010-01-03,Finland,Discount Stickers,Kerneler,469.0
+199,199,2010-01-03,Finland,Discount Stickers,Kerneler Dark Mode,531.0
+200,200,2010-01-03,Finland,Stickers for Less,Holographic Goose,308.0
+201,201,2010-01-03,Finland,Stickers for Less,Kaggle,1956.0
+202,202,2010-01-03,Finland,Stickers for Less,Kaggle Tiers,1462.0
+203,203,2010-01-03,Finland,Stickers for Less,Kerneler,877.0
+204,204,2010-01-03,Finland,Stickers for Less,Kerneler Dark Mode,980.0
+205,205,2010-01-03,Finland,Premium Sticker Mart,Holographic Goose,357.0
+206,206,2010-01-03,Finland,Premium Sticker Mart,Kaggle,2349.0
+207,207,2010-01-03,Finland,Premium Sticker Mart,Kaggle Tiers,1983.0
+208,208,2010-01-03,Finland,Premium Sticker Mart,Kerneler,1018.0
+209,209,2010-01-03,Finland,Premium Sticker Mart,Kerneler Dark Mode,1234.0
+210,210,2010-01-03,Italy,Discount Stickers,Holographic Goose,122.0
+211,211,2010-01-03,Italy,Discount Stickers,Kaggle,708.0
+212,212,2010-01-03,Italy,Discount Stickers,Kaggle Tiers,593.0
+213,213,2010-01-03,Italy,Discount Stickers,Kerneler,337.0
+214,214,2010-01-03,Italy,Discount Stickers,Kerneler Dark Mode,398.0
+215,215,2010-01-03,Italy,Stickers for Less,Holographic Goose,236.0
+216,216,2010-01-03,Italy,Stickers for Less,Kaggle,1522.0
+217,217,2010-01-03,Italy,Stickers for Less,Kaggle Tiers,1318.0
+218,218,2010-01-03,Italy,Stickers for Less,Kerneler,654.0
+219,219,2010-01-03,Italy,Stickers for Less,Kerneler Dark Mode,747.0
+220,220,2010-01-03,Italy,Premium Sticker Mart,Holographic Goose,266.0
+221,221,2010-01-03,Italy,Premium Sticker Mart,Kaggle,1680.0
+222,222,2010-01-03,Italy,Premium Sticker Mart,Kaggle Tiers,1635.0
+223,223,2010-01-03,Italy,Premium Sticker Mart,Kerneler,864.0
+224,224,2010-01-03,Italy,Premium Sticker Mart,Kerneler Dark Mode,935.0
+225,225,2010-01-03,Kenya,Discount Stickers,Holographic Goose,
+226,226,2010-01-03,Kenya,Discount Stickers,Kaggle,19.0
+227,227,2010-01-03,Kenya,Discount Stickers,Kaggle Tiers,16.0
+228,228,2010-01-03,Kenya,Discount Stickers,Kerneler,8.0
+229,229,2010-01-03,Kenya,Discount Stickers,Kerneler Dark Mode,10.0
+230,230,2010-01-03,Kenya,Stickers for Less,Holographic Goose,5.0
+231,231,2010-01-03,Kenya,Stickers for Less,Kaggle,38.0
+232,232,2010-01-03,Kenya,Stickers for Less,Kaggle Tiers,33.0
+233,233,2010-01-03,Kenya,Stickers for Less,Kerneler,17.0
+234,234,2010-01-03,Kenya,Stickers for Less,Kerneler Dark Mode,20.0
+235,235,2010-01-03,Kenya,Premium Sticker Mart,Holographic Goose,7.0
+236,236,2010-01-03,Kenya,Premium Sticker Mart,Kaggle,48.0
+237,237,2010-01-03,Kenya,Premium Sticker Mart,Kaggle Tiers,40.0
+238,238,2010-01-03,Kenya,Premium Sticker Mart,Kerneler,20.0
+239,239,2010-01-03,Kenya,Premium Sticker Mart,Kerneler Dark Mode,22.0
+240,240,2010-01-03,Norway,Discount Stickers,Holographic Goose,267.0
+241,241,2010-01-03,Norway,Discount Stickers,Kaggle,1753.0
+242,242,2010-01-03,Norway,Discount Stickers,Kaggle Tiers,1582.0
+243,243,2010-01-03,Norway,Discount Stickers,Kerneler,830.0
+244,244,2010-01-03,Norway,Discount Stickers,Kerneler Dark Mode,879.0
+245,245,2010-01-03,Norway,Stickers for Less,Holographic Goose,568.0
+246,246,2010-01-03,Norway,Stickers for Less,Kaggle,3526.0
+247,247,2010-01-03,Norway,Stickers for Less,Kaggle Tiers,2866.0
+248,248,2010-01-03,Norway,Stickers for Less,Kerneler,1571.0
+249,249,2010-01-03,Norway,Stickers for Less,Kerneler Dark Mode,1879.0
+250,250,2010-01-03,Norway,Premium Sticker Mart,Holographic Goose,654.0
+251,251,2010-01-03,Norway,Premium Sticker Mart,Kaggle,4541.0
+252,252,2010-01-03,Norway,Premium Sticker Mart,Kaggle Tiers,3867.0
+253,253,2010-01-03,Norway,Premium Sticker Mart,Kerneler,1971.0
+254,254,2010-01-03,Norway,Premium Sticker Mart,Kerneler Dark Mode,2299.0
+255,255,2010-01-03,Singapore,Discount Stickers,Holographic Goose,155.0
+256,256,2010-01-03,Singapore,Discount Stickers,Kaggle,979.0
+257,257,2010-01-03,Singapore,Discount Stickers,Kaggle Tiers,832.0
+258,258,2010-01-03,Singapore,Discount Stickers,Kerneler,462.0
+259,259,2010-01-03,Singapore,Discount Stickers,Kerneler Dark Mode,498.0
+260,260,2010-01-03,Singapore,Stickers for Less,Holographic Goose,289.0
+261,261,2010-01-03,Singapore,Stickers for Less,Kaggle,1801.0
+262,262,2010-01-03,Singapore,Stickers for Less,Kaggle Tiers,1690.0
+263,263,2010-01-03,Singapore,Stickers for Less,Kerneler,813.0
+264,264,2010-01-03,Singapore,Stickers for Less,Kerneler Dark Mode,987.0
+265,265,2010-01-03,Singapore,Premium Sticker Mart,Holographic Goose,388.0
+266,266,2010-01-03,Singapore,Premium Sticker Mart,Kaggle,2253.0
+267,267,2010-01-03,Singapore,Premium Sticker Mart,Kaggle Tiers,2315.0
+268,268,2010-01-03,Singapore,Premium Sticker Mart,Kerneler,1040.0
+269,269,2010-01-03,Singapore,Premium Sticker Mart,Kerneler Dark Mode,1314.0
+270,270,2010-01-04,Canada,Discount Stickers,Holographic Goose,
+271,271,2010-01-04,Canada,Discount Stickers,Kaggle,744.0
+272,272,2010-01-04,Canada,Discount Stickers,Kaggle Tiers,609.0
+273,273,2010-01-04,Canada,Discount Stickers,Kerneler,339.0
+274,274,2010-01-04,Canada,Discount Stickers,Kerneler Dark Mode,441.0
+275,275,2010-01-04,Canada,Stickers for Less,Holographic Goose,235.0
+276,276,2010-01-04,Canada,Stickers for Less,Kaggle,1382.0
+277,277,2010-01-04,Canada,Stickers for Less,Kaggle Tiers,1243.0
+278,278,2010-01-04,Canada,Stickers for Less,Kerneler,646.0
+279,279,2010-01-04,Canada,Stickers for Less,Kerneler Dark Mode,778.0
+280,280,2010-01-04,Canada,Premium Sticker Mart,Holographic Goose,277.0
+281,281,2010-01-04,Canada,Premium Sticker Mart,Kaggle,1714.0
+282,282,2010-01-04,Canada,Premium Sticker Mart,Kaggle Tiers,1567.0
+283,283,2010-01-04,Canada,Premium Sticker Mart,Kerneler,802.0
+284,284,2010-01-04,Canada,Premium Sticker Mart,Kerneler Dark Mode,1046.0
+285,285,2010-01-04,Finland,Discount Stickers,Holographic Goose,113.0
+286,286,2010-01-04,Finland,Discount Stickers,Kaggle,677.0
+287,287,2010-01-04,Finland,Discount Stickers,Kaggle Tiers,664.0
+288,288,2010-01-04,Finland,Discount Stickers,Kerneler,356.0
+289,289,2010-01-04,Finland,Discount Stickers,Kerneler Dark Mode,399.0
+290,290,2010-01-04,Finland,Stickers for Less,Holographic Goose,239.0
+291,291,2010-01-04,Finland,Stickers for Less,Kaggle,1446.0
+292,292,2010-01-04,Finland,Stickers for Less,Kaggle Tiers,1316.0
+293,293,2010-01-04,Finland,Stickers for Less,Kerneler,683.0
+294,294,2010-01-04,Finland,Stickers for Less,Kerneler Dark Mode,765.0
+295,295,2010-01-04,Finland,Premium Sticker Mart,Holographic Goose,295.0
+296,296,2010-01-04,Finland,Premium Sticker Mart,Kaggle,1705.0
+297,297,2010-01-04,Finland,Premium Sticker Mart,Kaggle Tiers,1577.0
+298,298,2010-01-04,Finland,Premium Sticker Mart,Kerneler,769.0
+299,299,2010-01-04,Finland,Premium Sticker Mart,Kerneler Dark Mode,931.0
+300,300,2010-01-04,Italy,Discount Stickers,Holographic Goose,91.0
+301,301,2010-01-04,Italy,Discount Stickers,Kaggle,538.0
+302,302,2010-01-04,Italy,Discount Stickers,Kaggle Tiers,512.0
+303,303,2010-01-04,Italy,Discount Stickers,Kerneler,250.0
+304,304,2010-01-04,Italy,Discount Stickers,Kerneler Dark Mode,293.0
+305,305,2010-01-04,Italy,Stickers for Less,Holographic Goose,187.0
+306,306,2010-01-04,Italy,Stickers for Less,Kaggle,1154.0
+307,307,2010-01-04,Italy,Stickers for Less,Kaggle Tiers,1009.0
+308,308,2010-01-04,Italy,Stickers for Less,Kerneler,535.0
+309,309,2010-01-04,Italy,Stickers for Less,Kerneler Dark Mode,578.0
+310,310,2010-01-04,Italy,Premium Sticker Mart,Holographic Goose,213.0
+311,311,2010-01-04,Italy,Premium Sticker Mart,Kaggle,1288.0
+312,312,2010-01-04,Italy,Premium Sticker Mart,Kaggle Tiers,1226.0
+313,313,2010-01-04,Italy,Premium Sticker Mart,Kerneler,574.0
+314,314,2010-01-04,Italy,Premium Sticker Mart,Kerneler Dark Mode,697.0
+315,315,2010-01-04,Kenya,Discount Stickers,Holographic Goose,
+316,316,2010-01-04,Kenya,Discount Stickers,Kaggle,14.0
+317,317,2010-01-04,Kenya,Discount Stickers,Kaggle Tiers,12.0
+318,318,2010-01-04,Kenya,Discount Stickers,Kerneler,6.0
+319,319,2010-01-04,Kenya,Discount Stickers,Kerneler Dark Mode,8.0
+320,320,2010-01-04,Kenya,Stickers for Less,Holographic Goose,
+321,321,2010-01-04,Kenya,Stickers for Less,Kaggle,30.0
+322,322,2010-01-04,Kenya,Stickers for Less,Kaggle Tiers,28.0
+323,323,2010-01-04,Kenya,Stickers for Less,Kerneler,12.0
+324,324,2010-01-04,Kenya,Stickers for Less,Kerneler Dark Mode,16.0
+325,325,2010-01-04,Kenya,Premium Sticker Mart,Holographic Goose,5.0
+326,326,2010-01-04,Kenya,Premium Sticker Mart,Kaggle,37.0
+327,327,2010-01-04,Kenya,Premium Sticker Mart,Kaggle Tiers,31.0
+328,328,2010-01-04,Kenya,Premium Sticker Mart,Kerneler,15.0
+329,329,2010-01-04,Kenya,Premium Sticker Mart,Kerneler Dark Mode,18.0
+330,330,2010-01-04,Norway,Discount Stickers,Holographic Goose,228.0
+331,331,2010-01-04,Norway,Discount Stickers,Kaggle,1216.0
+332,332,2010-01-04,Norway,Discount Stickers,Kaggle Tiers,1316.0
+333,333,2010-01-04,Norway,Discount Stickers,Kerneler,550.0
+334,334,2010-01-04,Norway,Discount Stickers,Kerneler Dark Mode,767.0
+335,335,2010-01-04,Norway,Stickers for Less,Holographic Goose,445.0
+336,336,2010-01-04,Norway,Stickers for Less,Kaggle,2851.0
+337,337,2010-01-04,Norway,Stickers for Less,Kaggle Tiers,2627.0
+338,338,2010-01-04,Norway,Stickers for Less,Kerneler,1246.0
+339,339,2010-01-04,Norway,Stickers for Less,Kerneler Dark Mode,1532.0
+340,340,2010-01-04,Norway,Premium Sticker Mart,Holographic Goose,496.0
+341,341,2010-01-04,Norway,Premium Sticker Mart,Kaggle,3303.0
+342,342,2010-01-04,Norway,Premium Sticker Mart,Kaggle Tiers,2913.0
+343,343,2010-01-04,Norway,Premium Sticker Mart,Kerneler,1460.0
+344,344,2010-01-04,Norway,Premium Sticker Mart,Kerneler Dark Mode,1816.0
+345,345,2010-01-04,Singapore,Discount Stickers,Holographic Goose,123.0
+346,346,2010-01-04,Singapore,Discount Stickers,Kaggle,766.0
+347,347,2010-01-04,Singapore,Discount Stickers,Kaggle Tiers,668.0
+348,348,2010-01-04,Singapore,Discount Stickers,Kerneler,329.0
+349,349,2010-01-04,Singapore,Discount Stickers,Kerneler Dark Mode,385.0
+350,350,2010-01-04,Singapore,Stickers for Less,Holographic Goose,256.0
+351,351,2010-01-04,Singapore,Stickers for Less,Kaggle,1543.0
+352,352,2010-01-04,Singapore,Stickers for Less,Kaggle Tiers,1205.0
+353,353,2010-01-04,Singapore,Stickers for Less,Kerneler,602.0
+354,354,2010-01-04,Singapore,Stickers for Less,Kerneler Dark Mode,839.0
+355,355,2010-01-04,Singapore,Premium Sticker Mart,Holographic Goose,269.0
+356,356,2010-01-04,Singapore,Premium Sticker Mart,Kaggle,1760.0
+357,357,2010-01-04,Singapore,Premium Sticker Mart,Kaggle Tiers,1656.0
+358,358,2010-01-04,Singapore,Premium Sticker Mart,Kerneler,846.0
+359,359,2010-01-04,Singapore,Premium Sticker Mart,Kerneler Dark Mode,927.0
+360,360,2010-01-05,Canada,Discount Stickers,Holographic Goose,
+361,361,2010-01-05,Canada,Discount Stickers,Kaggle,707.0
+362,362,2010-01-05,Canada,Discount Stickers,Kaggle Tiers,640.0
+363,363,2010-01-05,Canada,Discount Stickers,Kerneler,290.0
+364,364,2010-01-05,Canada,Discount Stickers,Kerneler Dark Mode,372.0
+365,365,2010-01-05,Canada,Stickers for Less,Holographic Goose,240.0
+366,366,2010-01-05,Canada,Stickers for Less,Kaggle,1416.0
+367,367,2010-01-05,Canada,Stickers for Less,Kaggle Tiers,1319.0
+368,368,2010-01-05,Canada,Stickers for Less,Kerneler,612.0
+369,369,2010-01-05,Canada,Stickers for Less,Kerneler Dark Mode,772.0
+370,370,2010-01-05,Canada,Premium Sticker Mart,Holographic Goose,287.0
+371,371,2010-01-05,Canada,Premium Sticker Mart,Kaggle,1593.0
+372,372,2010-01-05,Canada,Premium Sticker Mart,Kaggle Tiers,1590.0
+373,373,2010-01-05,Canada,Premium Sticker Mart,Kerneler,773.0
+374,374,2010-01-05,Canada,Premium Sticker Mart,Kerneler Dark Mode,894.0
+375,375,2010-01-05,Finland,Discount Stickers,Holographic Goose,116.0
+376,376,2010-01-05,Finland,Discount Stickers,Kaggle,782.0
+377,377,2010-01-05,Finland,Discount Stickers,Kaggle Tiers,608.0
+378,378,2010-01-05,Finland,Discount Stickers,Kerneler,299.0
+379,379,2010-01-05,Finland,Discount Stickers,Kerneler Dark Mode,364.0
+380,380,2010-01-05,Finland,Stickers for Less,Holographic Goose,227.0
+381,381,2010-01-05,Finland,Stickers for Less,Kaggle,1533.0
+382,382,2010-01-05,Finland,Stickers for Less,Kaggle Tiers,1233.0
+383,383,2010-01-05,Finland,Stickers for Less,Kerneler,607.0
+384,384,2010-01-05,Finland,Stickers for Less,Kerneler Dark Mode,888.0
+385,385,2010-01-05,Finland,Premium Sticker Mart,Holographic Goose,290.0
+386,386,2010-01-05,Finland,Premium Sticker Mart,Kaggle,1611.0
+387,387,2010-01-05,Finland,Premium Sticker Mart,Kaggle Tiers,1515.0
+388,388,2010-01-05,Finland,Premium Sticker Mart,Kerneler,720.0
+389,389,2010-01-05,Finland,Premium Sticker Mart,Kerneler Dark Mode,941.0
+390,390,2010-01-05,Italy,Discount Stickers,Holographic Goose,77.0
+391,391,2010-01-05,Italy,Discount Stickers,Kaggle,550.0
+392,392,2010-01-05,Italy,Discount Stickers,Kaggle Tiers,446.0
+393,393,2010-01-05,Italy,Discount Stickers,Kerneler,238.0
+394,394,2010-01-05,Italy,Discount Stickers,Kerneler Dark Mode,285.0
+395,395,2010-01-05,Italy,Stickers for Less,Holographic Goose,180.0
+396,396,2010-01-05,Italy,Stickers for Less,Kaggle,1147.0
+397,397,2010-01-05,Italy,Stickers for Less,Kaggle Tiers,1036.0
+398,398,2010-01-05,Italy,Stickers for Less,Kerneler,510.0
+399,399,2010-01-05,Italy,Stickers for Less,Kerneler Dark Mode,580.0
+400,400,2010-01-05,Italy,Premium Sticker Mart,Holographic Goose,225.0
+401,401,2010-01-05,Italy,Premium Sticker Mart,Kaggle,1421.0
+402,402,2010-01-05,Italy,Premium Sticker Mart,Kaggle Tiers,1150.0
+403,403,2010-01-05,Italy,Premium Sticker Mart,Kerneler,572.0
+404,404,2010-01-05,Italy,Premium Sticker Mart,Kerneler Dark Mode,753.0
+405,405,2010-01-05,Kenya,Discount Stickers,Holographic Goose,
+406,406,2010-01-05,Kenya,Discount Stickers,Kaggle,15.0
+407,407,2010-01-05,Kenya,Discount Stickers,Kaggle Tiers,12.0
+408,408,2010-01-05,Kenya,Discount Stickers,Kerneler,6.0
+409,409,2010-01-05,Kenya,Discount Stickers,Kerneler Dark Mode,7.0
+410,410,2010-01-05,Kenya,Stickers for Less,Holographic Goose,
+411,411,2010-01-05,Kenya,Stickers for Less,Kaggle,29.0
+412,412,2010-01-05,Kenya,Stickers for Less,Kaggle Tiers,26.0
+413,413,2010-01-05,Kenya,Stickers for Less,Kerneler,12.0
+414,414,2010-01-05,Kenya,Stickers for Less,Kerneler Dark Mode,16.0
+415,415,2010-01-05,Kenya,Premium Sticker Mart,Holographic Goose,5.0
+416,416,2010-01-05,Kenya,Premium Sticker Mart,Kaggle,34.0
+417,417,2010-01-05,Kenya,Premium Sticker Mart,Kaggle Tiers,30.0
+418,418,2010-01-05,Kenya,Premium Sticker Mart,Kerneler,16.0
+419,419,2010-01-05,Kenya,Premium Sticker Mart,Kerneler Dark Mode,18.0
+420,420,2010-01-05,Norway,Discount Stickers,Holographic Goose,206.0
+421,421,2010-01-05,Norway,Discount Stickers,Kaggle,1348.0
+422,422,2010-01-05,Norway,Discount Stickers,Kaggle Tiers,1117.0
+423,423,2010-01-05,Norway,Discount Stickers,Kerneler,574.0
+424,424,2010-01-05,Norway,Discount Stickers,Kerneler Dark Mode,711.0
+425,425,2010-01-05,Norway,Stickers for Less,Holographic Goose,400.0
+426,426,2010-01-05,Norway,Stickers for Less,Kaggle,2720.0
+427,427,2010-01-05,Norway,Stickers for Less,Kaggle Tiers,2323.0
+428,428,2010-01-05,Norway,Stickers for Less,Kerneler,1246.0
+429,429,2010-01-05,Norway,Stickers for Less,Kerneler Dark Mode,1488.0
+430,430,2010-01-05,Norway,Premium Sticker Mart,Holographic Goose,478.0
+431,431,2010-01-05,Norway,Premium Sticker Mart,Kaggle,3008.0
+432,432,2010-01-05,Norway,Premium Sticker Mart,Kaggle Tiers,2824.0
+433,433,2010-01-05,Norway,Premium Sticker Mart,Kerneler,1471.0
+434,434,2010-01-05,Norway,Premium Sticker Mart,Kerneler Dark Mode,1567.0
+435,435,2010-01-05,Singapore,Discount Stickers,Holographic Goose,111.0
+436,436,2010-01-05,Singapore,Discount Stickers,Kaggle,772.0
+437,437,2010-01-05,Singapore,Discount Stickers,Kaggle Tiers,693.0
+438,438,2010-01-05,Singapore,Discount Stickers,Kerneler,341.0
+439,439,2010-01-05,Singapore,Discount Stickers,Kerneler Dark Mode,372.0
+440,440,2010-01-05,Singapore,Stickers for Less,Holographic Goose,226.0
+441,441,2010-01-05,Singapore,Stickers for Less,Kaggle,1364.0
+442,442,2010-01-05,Singapore,Stickers for Less,Kaggle Tiers,1352.0
+443,443,2010-01-05,Singapore,Stickers for Less,Kerneler,629.0
+444,444,2010-01-05,Singapore,Stickers for Less,Kerneler Dark Mode,795.0
+445,445,2010-01-05,Singapore,Premium Sticker Mart,Holographic Goose,264.0
+446,446,2010-01-05,Singapore,Premium Sticker Mart,Kaggle,1536.0
+447,447,2010-01-05,Singapore,Premium Sticker Mart,Kaggle Tiers,1410.0
+448,448,2010-01-05,Singapore,Premium Sticker Mart,Kerneler,770.0
+449,449,2010-01-05,Singapore,Premium Sticker Mart,Kerneler Dark Mode,962.0
+450,450,2010-01-06,Canada,Discount Stickers,Holographic Goose,
+451,451,2010-01-06,Canada,Discount Stickers,Kaggle,706.0
+452,452,2010-01-06,Canada,Discount Stickers,Kaggle Tiers,648.0
+453,453,2010-01-06,Canada,Discount Stickers,Kerneler,310.0
+454,454,2010-01-06,Canada,Discount Stickers,Kerneler Dark Mode,350.0
+455,455,2010-01-06,Canada,Stickers for Less,Holographic Goose,223.0
+456,456,2010-01-06,Canada,Stickers for Less,Kaggle,1493.0
+457,457,2010-01-06,Canada,Stickers for Less,Kaggle Tiers,1207.0
+458,458,2010-01-06,Canada,Stickers for Less,Kerneler,618.0
+459,459,2010-01-06,Canada,Stickers for Less,Kerneler Dark Mode,762.0
+460,460,2010-01-06,Canada,Premium Sticker Mart,Holographic Goose,276.0
+461,461,2010-01-06,Canada,Premium Sticker Mart,Kaggle,1592.0
+462,462,2010-01-06,Canada,Premium Sticker Mart,Kaggle Tiers,1463.0
+463,463,2010-01-06,Canada,Premium Sticker Mart,Kerneler,799.0
+464,464,2010-01-06,Canada,Premium Sticker Mart,Kerneler Dark Mode,829.0
+465,465,2010-01-06,Finland,Discount Stickers,Holographic Goose,107.0
+466,466,2010-01-06,Finland,Discount Stickers,Kaggle,657.0
+467,467,2010-01-06,Finland,Discount Stickers,Kaggle Tiers,592.0
+468,468,2010-01-06,Finland,Discount Stickers,Kerneler,329.0
+469,469,2010-01-06,Finland,Discount Stickers,Kerneler Dark Mode,372.0
+470,470,2010-01-06,Finland,Stickers for Less,Holographic Goose,231.0
+471,471,2010-01-06,Finland,Stickers for Less,Kaggle,1407.0
+472,472,2010-01-06,Finland,Stickers for Less,Kaggle Tiers,1196.0
+473,473,2010-01-06,Finland,Stickers for Less,Kerneler,614.0
+474,474,2010-01-06,Finland,Stickers for Less,Kerneler Dark Mode,721.0
+475,475,2010-01-06,Finland,Premium Sticker Mart,Holographic Goose,274.0
+476,476,2010-01-06,Finland,Premium Sticker Mart,Kaggle,1615.0
+477,477,2010-01-06,Finland,Premium Sticker Mart,Kaggle Tiers,1473.0
+478,478,2010-01-06,Finland,Premium Sticker Mart,Kerneler,756.0
+479,479,2010-01-06,Finland,Premium Sticker Mart,Kerneler Dark Mode,950.0
+480,480,2010-01-06,Italy,Discount Stickers,Holographic Goose,83.0
+481,481,2010-01-06,Italy,Discount Stickers,Kaggle,485.0
+482,482,2010-01-06,Italy,Discount Stickers,Kaggle Tiers,511.0
+483,483,2010-01-06,Italy,Discount Stickers,Kerneler,253.0
+484,484,2010-01-06,Italy,Discount Stickers,Kerneler Dark Mode,297.0
+485,485,2010-01-06,Italy,Stickers for Less,Holographic Goose,165.0
+486,486,2010-01-06,Italy,Stickers for Less,Kaggle,1094.0
+487,487,2010-01-06,Italy,Stickers for Less,Kaggle Tiers,1053.0
+488,488,2010-01-06,Italy,Stickers for Less,Kerneler,459.0
+489,489,2010-01-06,Italy,Stickers for Less,Kerneler Dark Mode,606.0
+490,490,2010-01-06,Italy,Premium Sticker Mart,Holographic Goose,204.0
+491,491,2010-01-06,Italy,Premium Sticker Mart,Kaggle,1131.0
+492,492,2010-01-06,Italy,Premium Sticker Mart,Kaggle Tiers,1135.0
+493,493,2010-01-06,Italy,Premium Sticker Mart,Kerneler,570.0
+494,494,2010-01-06,Italy,Premium Sticker Mart,Kerneler Dark Mode,698.0
+495,495,2010-01-06,Kenya,Discount Stickers,Holographic Goose,
+496,496,2010-01-06,Kenya,Discount Stickers,Kaggle,13.0
+497,497,2010-01-06,Kenya,Discount Stickers,Kaggle Tiers,11.0
+498,498,2010-01-06,Kenya,Discount Stickers,Kerneler,6.0
+499,499,2010-01-06,Kenya,Discount Stickers,Kerneler Dark Mode,7.0
+500,500,2010-01-06,Kenya,Stickers for Less,Holographic Goose,
+501,501,2010-01-06,Kenya,Stickers for Less,Kaggle,28.0
+502,502,2010-01-06,Kenya,Stickers for Less,Kaggle Tiers,25.0
+503,503,2010-01-06,Kenya,Stickers for Less,Kerneler,11.0
+504,504,2010-01-06,Kenya,Stickers for Less,Kerneler Dark Mode,14.0
+505,505,2010-01-06,Kenya,Premium Sticker Mart,Holographic Goose,
+506,506,2010-01-06,Kenya,Premium Sticker Mart,Kaggle,32.0
+507,507,2010-01-06,Kenya,Premium Sticker Mart,Kaggle Tiers,30.0
+508,508,2010-01-06,Kenya,Premium Sticker Mart,Kerneler,14.0
+509,509,2010-01-06,Kenya,Premium Sticker Mart,Kerneler Dark Mode,18.0
+510,510,2010-01-06,Norway,Discount Stickers,Holographic Goose,205.0
+511,511,2010-01-06,Norway,Discount Stickers,Kaggle,1131.0
+512,512,2010-01-06,Norway,Discount Stickers,Kaggle Tiers,1123.0
+513,513,2010-01-06,Norway,Discount Stickers,Kerneler,563.0
+514,514,2010-01-06,Norway,Discount Stickers,Kerneler Dark Mode,671.0
+515,515,2010-01-06,Norway,Stickers for Less,Holographic Goose,411.0
+516,516,2010-01-06,Norway,Stickers for Less,Kaggle,2430.0
+517,517,2010-01-06,Norway,Stickers for Less,Kaggle Tiers,2215.0
+518,518,2010-01-06,Norway,Stickers for Less,Kerneler,1199.0
+519,519,2010-01-06,Norway,Stickers for Less,Kerneler Dark Mode,1414.0
+520,520,2010-01-06,Norway,Premium Sticker Mart,Holographic Goose,463.0
+521,521,2010-01-06,Norway,Premium Sticker Mart,Kaggle,3118.0
+522,522,2010-01-06,Norway,Premium Sticker Mart,Kaggle Tiers,2733.0
+523,523,2010-01-06,Norway,Premium Sticker Mart,Kerneler,1254.0
+524,524,2010-01-06,Norway,Premium Sticker Mart,Kerneler Dark Mode,1718.0
+525,525,2010-01-06,Singapore,Discount Stickers,Holographic Goose,107.0
+526,526,2010-01-06,Singapore,Discount Stickers,Kaggle,709.0
+527,527,2010-01-06,Singapore,Discount Stickers,Kaggle Tiers,658.0
+528,528,2010-01-06,Singapore,Discount Stickers,Kerneler,302.0
+529,529,2010-01-06,Singapore,Discount Stickers,Kerneler Dark Mode,367.0
+530,530,2010-01-06,Singapore,Stickers for Less,Holographic Goose,230.0
+531,531,2010-01-06,Singapore,Stickers for Less,Kaggle,1514.0
+532,532,2010-01-06,Singapore,Stickers for Less,Kaggle Tiers,1231.0
+533,533,2010-01-06,Singapore,Stickers for Less,Kerneler,673.0
+534,534,2010-01-06,Singapore,Stickers for Less,Kerneler Dark Mode,732.0
+535,535,2010-01-06,Singapore,Premium Sticker Mart,Holographic Goose,261.0
+536,536,2010-01-06,Singapore,Premium Sticker Mart,Kaggle,1690.0
+537,537,2010-01-06,Singapore,Premium Sticker Mart,Kaggle Tiers,1553.0
+538,538,2010-01-06,Singapore,Premium Sticker Mart,Kerneler,680.0
+539,539,2010-01-06,Singapore,Premium Sticker Mart,Kerneler Dark Mode,821.0
+540,540,2010-01-07,Canada,Discount Stickers,Holographic Goose,
+541,541,2010-01-07,Canada,Discount Stickers,Kaggle,750.0
+542,542,2010-01-07,Canada,Discount Stickers,Kaggle Tiers,580.0
+543,543,2010-01-07,Canada,Discount Stickers,Kerneler,312.0
+544,544,2010-01-07,Canada,Discount Stickers,Kerneler Dark Mode,357.0
+545,545,2010-01-07,Canada,Stickers for Less,Holographic Goose,
+546,546,2010-01-07,Canada,Stickers for Less,Kaggle,1237.0
+547,547,2010-01-07,Canada,Stickers for Less,Kaggle Tiers,1319.0
+548,548,2010-01-07,Canada,Stickers for Less,Kerneler,612.0
+549,549,2010-01-07,Canada,Stickers for Less,Kerneler Dark Mode,653.0
+550,550,2010-01-07,Canada,Premium Sticker Mart,Holographic Goose,240.0
+551,551,2010-01-07,Canada,Premium Sticker Mart,Kaggle,1682.0
+552,552,2010-01-07,Canada,Premium Sticker Mart,Kaggle Tiers,1473.0
+553,553,2010-01-07,Canada,Premium Sticker Mart,Kerneler,680.0
+554,554,2010-01-07,Canada,Premium Sticker Mart,Kerneler Dark Mode,911.0
+555,555,2010-01-07,Finland,Discount Stickers,Holographic Goose,104.0
+556,556,2010-01-07,Finland,Discount Stickers,Kaggle,695.0
+557,557,2010-01-07,Finland,Discount Stickers,Kaggle Tiers,571.0
+558,558,2010-01-07,Finland,Discount Stickers,Kerneler,292.0
+559,559,2010-01-07,Finland,Discount Stickers,Kerneler Dark Mode,379.0
+560,560,2010-01-07,Finland,Stickers for Less,Holographic Goose,198.0
+561,561,2010-01-07,Finland,Stickers for Less,Kaggle,1316.0
+562,562,2010-01-07,Finland,Stickers for Less,Kaggle Tiers,1143.0
+563,563,2010-01-07,Finland,Stickers for Less,Kerneler,615.0
+564,564,2010-01-07,Finland,Stickers for Less,Kerneler Dark Mode,742.0
+565,565,2010-01-07,Finland,Premium Sticker Mart,Holographic Goose,249.0
+566,566,2010-01-07,Finland,Premium Sticker Mart,Kaggle,1755.0
+567,567,2010-01-07,Finland,Premium Sticker Mart,Kaggle Tiers,1251.0
+568,568,2010-01-07,Finland,Premium Sticker Mart,Kerneler,742.0
+569,569,2010-01-07,Finland,Premium Sticker Mart,Kerneler Dark Mode,787.0
+570,570,2010-01-07,Italy,Discount Stickers,Holographic Goose,74.0
+571,571,2010-01-07,Italy,Discount Stickers,Kaggle,479.0
+572,572,2010-01-07,Italy,Discount Stickers,Kaggle Tiers,446.0
+573,573,2010-01-07,Italy,Discount Stickers,Kerneler,223.0
+574,574,2010-01-07,Italy,Discount Stickers,Kerneler Dark Mode,264.0
+575,575,2010-01-07,Italy,Stickers for Less,Holographic Goose,163.0
+576,576,2010-01-07,Italy,Stickers for Less,Kaggle,1027.0
+577,577,2010-01-07,Italy,Stickers for Less,Kaggle Tiers,916.0
+578,578,2010-01-07,Italy,Stickers for Less,Kerneler,425.0
+579,579,2010-01-07,Italy,Stickers for Less,Kerneler Dark Mode,559.0
+580,580,2010-01-07,Italy,Premium Sticker Mart,Holographic Goose,194.0
+581,581,2010-01-07,Italy,Premium Sticker Mart,Kaggle,1319.0
+582,582,2010-01-07,Italy,Premium Sticker Mart,Kaggle Tiers,1060.0
+583,583,2010-01-07,Italy,Premium Sticker Mart,Kerneler,536.0
+584,584,2010-01-07,Italy,Premium Sticker Mart,Kerneler Dark Mode,670.0
+585,585,2010-01-07,Kenya,Discount Stickers,Holographic Goose,
+586,586,2010-01-07,Kenya,Discount Stickers,Kaggle,13.0
+587,587,2010-01-07,Kenya,Discount Stickers,Kaggle Tiers,11.0
+588,588,2010-01-07,Kenya,Discount Stickers,Kerneler,6.0
+589,589,2010-01-07,Kenya,Discount Stickers,Kerneler Dark Mode,7.0
+590,590,2010-01-07,Kenya,Stickers for Less,Holographic Goose,
+591,591,2010-01-07,Kenya,Stickers for Less,Kaggle,26.0
+592,592,2010-01-07,Kenya,Stickers for Less,Kaggle Tiers,23.0
+593,593,2010-01-07,Kenya,Stickers for Less,Kerneler,12.0
+594,594,2010-01-07,Kenya,Stickers for Less,Kerneler Dark Mode,14.0
+595,595,2010-01-07,Kenya,Premium Sticker Mart,Holographic Goose,
+596,596,2010-01-07,Kenya,Premium Sticker Mart,Kaggle,29.0
+597,597,2010-01-07,Kenya,Premium Sticker Mart,Kaggle Tiers,25.0
+598,598,2010-01-07,Kenya,Premium Sticker Mart,Kerneler,14.0
+599,599,2010-01-07,Kenya,Premium Sticker Mart,Kerneler Dark Mode,18.0
+600,600,2010-01-07,Norway,Discount Stickers,Holographic Goose,205.0
+601,601,2010-01-07,Norway,Discount Stickers,Kaggle,1172.0
+602,602,2010-01-07,Norway,Discount Stickers,Kaggle Tiers,1125.0
+603,603,2010-01-07,Norway,Discount Stickers,Kerneler,571.0
+604,604,2010-01-07,Norway,Discount Stickers,Kerneler Dark Mode,654.0
+605,605,2010-01-07,Norway,Stickers for Less,Holographic Goose,399.0
+606,606,2010-01-07,Norway,Stickers for Less,Kaggle,2284.0
+607,607,2010-01-07,Norway,Stickers for Less,Kaggle Tiers,2240.0
+608,608,2010-01-07,Norway,Stickers for Less,Kerneler,1189.0
+609,609,2010-01-07,Norway,Stickers for Less,Kerneler Dark Mode,1430.0
+610,610,2010-01-07,Norway,Premium Sticker Mart,Holographic Goose,436.0
+611,611,2010-01-07,Norway,Premium Sticker Mart,Kaggle,2853.0
+612,612,2010-01-07,Norway,Premium Sticker Mart,Kaggle Tiers,2495.0
+613,613,2010-01-07,Norway,Premium Sticker Mart,Kerneler,1429.0
+614,614,2010-01-07,Norway,Premium Sticker Mart,Kerneler Dark Mode,1666.0
+615,615,2010-01-07,Singapore,Discount Stickers,Holographic Goose,98.0
+616,616,2010-01-07,Singapore,Discount Stickers,Kaggle,706.0
+617,617,2010-01-07,Singapore,Discount Stickers,Kaggle Tiers,544.0
+618,618,2010-01-07,Singapore,Discount Stickers,Kerneler,289.0
+619,619,2010-01-07,Singapore,Discount Stickers,Kerneler Dark Mode,365.0
+620,620,2010-01-07,Singapore,Stickers for Less,Holographic Goose,217.0
+621,621,2010-01-07,Singapore,Stickers for Less,Kaggle,1394.0
+622,622,2010-01-07,Singapore,Stickers for Less,Kaggle Tiers,1220.0
+623,623,2010-01-07,Singapore,Stickers for Less,Kerneler,563.0
+624,624,2010-01-07,Singapore,Stickers for Less,Kerneler Dark Mode,754.0
+625,625,2010-01-07,Singapore,Premium Sticker Mart,Holographic Goose,260.0
+626,626,2010-01-07,Singapore,Premium Sticker Mart,Kaggle,1637.0
+627,627,2010-01-07,Singapore,Premium Sticker Mart,Kaggle Tiers,1408.0
+628,628,2010-01-07,Singapore,Premium Sticker Mart,Kerneler,743.0
+629,629,2010-01-07,Singapore,Premium Sticker Mart,Kerneler Dark Mode,811.0
+630,630,2010-01-08,Canada,Discount Stickers,Holographic Goose,
+631,631,2010-01-08,Canada,Discount Stickers,Kaggle,700.0
+632,632,2010-01-08,Canada,Discount Stickers,Kaggle Tiers,590.0
+633,633,2010-01-08,Canada,Discount Stickers,Kerneler,315.0
+634,634,2010-01-08,Canada,Discount Stickers,Kerneler Dark Mode,354.0
+635,635,2010-01-08,Canada,Stickers for Less,Holographic Goose,208.0
+636,636,2010-01-08,Canada,Stickers for Less,Kaggle,1356.0
+637,637,2010-01-08,Canada,Stickers for Less,Kaggle Tiers,1193.0
+638,638,2010-01-08,Canada,Stickers for Less,Kerneler,577.0
+639,639,2010-01-08,Canada,Stickers for Less,Kerneler Dark Mode,789.0
+640,640,2010-01-08,Canada,Premium Sticker Mart,Holographic Goose,265.0
+641,641,2010-01-08,Canada,Premium Sticker Mart,Kaggle,1733.0
+642,642,2010-01-08,Canada,Premium Sticker Mart,Kaggle Tiers,1355.0
+643,643,2010-01-08,Canada,Premium Sticker Mart,Kerneler,713.0
+644,644,2010-01-08,Canada,Premium Sticker Mart,Kerneler Dark Mode,924.0
+645,645,2010-01-08,Finland,Discount Stickers,Holographic Goose,112.0
+646,646,2010-01-08,Finland,Discount Stickers,Kaggle,711.0
+647,647,2010-01-08,Finland,Discount Stickers,Kaggle Tiers,629.0
+648,648,2010-01-08,Finland,Discount Stickers,Kerneler,346.0
+649,649,2010-01-08,Finland,Discount Stickers,Kerneler Dark Mode,392.0
+650,650,2010-01-08,Finland,Stickers for Less,Holographic Goose,224.0
+651,651,2010-01-08,Finland,Stickers for Less,Kaggle,1301.0
+652,652,2010-01-08,Finland,Stickers for Less,Kaggle Tiers,1365.0
+653,653,2010-01-08,Finland,Stickers for Less,Kerneler,629.0
+654,654,2010-01-08,Finland,Stickers for Less,Kerneler Dark Mode,762.0
+655,655,2010-01-08,Finland,Premium Sticker Mart,Holographic Goose,252.0
+656,656,2010-01-08,Finland,Premium Sticker Mart,Kaggle,1702.0
+657,657,2010-01-08,Finland,Premium Sticker Mart,Kaggle Tiers,1396.0
+658,658,2010-01-08,Finland,Premium Sticker Mart,Kerneler,730.0
+659,659,2010-01-08,Finland,Premium Sticker Mart,Kerneler Dark Mode,916.0
+660,660,2010-01-08,Italy,Discount Stickers,Holographic Goose,87.0
+661,661,2010-01-08,Italy,Discount Stickers,Kaggle,542.0
+662,662,2010-01-08,Italy,Discount Stickers,Kaggle Tiers,475.0
+663,663,2010-01-08,Italy,Discount Stickers,Kerneler,230.0
+664,664,2010-01-08,Italy,Discount Stickers,Kerneler Dark Mode,304.0
+665,665,2010-01-08,Italy,Stickers for Less,Holographic Goose,171.0
+666,666,2010-01-08,Italy,Stickers for Less,Kaggle,1067.0
+667,667,2010-01-08,Italy,Stickers for Less,Kaggle Tiers,997.0
+668,668,2010-01-08,Italy,Stickers for Less,Kerneler,458.0
+669,669,2010-01-08,Italy,Stickers for Less,Kerneler Dark Mode,644.0
+670,670,2010-01-08,Italy,Premium Sticker Mart,Holographic Goose,200.0
+671,671,2010-01-08,Italy,Premium Sticker Mart,Kaggle,1327.0
+672,672,2010-01-08,Italy,Premium Sticker Mart,Kaggle Tiers,1134.0
+673,673,2010-01-08,Italy,Premium Sticker Mart,Kerneler,621.0
+674,674,2010-01-08,Italy,Premium Sticker Mart,Kerneler Dark Mode,748.0
+675,675,2010-01-08,Kenya,Discount Stickers,Holographic Goose,
+676,676,2010-01-08,Kenya,Discount Stickers,Kaggle,14.0
+677,677,2010-01-08,Kenya,Discount Stickers,Kaggle Tiers,11.0
+678,678,2010-01-08,Kenya,Discount Stickers,Kerneler,6.0
+679,679,2010-01-08,Kenya,Discount Stickers,Kerneler Dark Mode,7.0
+680,680,2010-01-08,Kenya,Stickers for Less,Holographic Goose,
+681,681,2010-01-08,Kenya,Stickers for Less,Kaggle,28.0
+682,682,2010-01-08,Kenya,Stickers for Less,Kaggle Tiers,24.0
+683,683,2010-01-08,Kenya,Stickers for Less,Kerneler,12.0
+684,684,2010-01-08,Kenya,Stickers for Less,Kerneler Dark Mode,14.0
+685,685,2010-01-08,Kenya,Premium Sticker Mart,Holographic Goose,5.0
+686,686,2010-01-08,Kenya,Premium Sticker Mart,Kaggle,32.0
+687,687,2010-01-08,Kenya,Premium Sticker Mart,Kaggle Tiers,30.0
+688,688,2010-01-08,Kenya,Premium Sticker Mart,Kerneler,13.0
+689,689,2010-01-08,Kenya,Premium Sticker Mart,Kerneler Dark Mode,18.0
+690,690,2010-01-08,Norway,Discount Stickers,Holographic Goose,200.0
+691,691,2010-01-08,Norway,Discount Stickers,Kaggle,1275.0
+692,692,2010-01-08,Norway,Discount Stickers,Kaggle Tiers,1148.0
+693,693,2010-01-08,Norway,Discount Stickers,Kerneler,550.0
+694,694,2010-01-08,Norway,Discount Stickers,Kerneler Dark Mode,596.0
+695,695,2010-01-08,Norway,Stickers for Less,Holographic Goose,422.0
+696,696,2010-01-08,Norway,Stickers for Less,Kaggle,2424.0
+697,697,2010-01-08,Norway,Stickers for Less,Kaggle Tiers,2300.0
+698,698,2010-01-08,Norway,Stickers for Less,Kerneler,1037.0
+699,699,2010-01-08,Norway,Stickers for Less,Kerneler Dark Mode,1304.0
+700,700,2010-01-08,Norway,Premium Sticker Mart,Holographic Goose,482.0
+701,701,2010-01-08,Norway,Premium Sticker Mart,Kaggle,2966.0
+702,702,2010-01-08,Norway,Premium Sticker Mart,Kaggle Tiers,2812.0
+703,703,2010-01-08,Norway,Premium Sticker Mart,Kerneler,1455.0
+704,704,2010-01-08,Norway,Premium Sticker Mart,Kerneler Dark Mode,1589.0
+705,705,2010-01-08,Singapore,Discount Stickers,Holographic Goose,117.0
+706,706,2010-01-08,Singapore,Discount Stickers,Kaggle,600.0
+707,707,2010-01-08,Singapore,Discount Stickers,Kaggle Tiers,601.0
+708,708,2010-01-08,Singapore,Discount Stickers,Kerneler,292.0
+709,709,2010-01-08,Singapore,Discount Stickers,Kerneler Dark Mode,372.0
+710,710,2010-01-08,Singapore,Stickers for Less,Holographic Goose,217.0
+711,711,2010-01-08,Singapore,Stickers for Less,Kaggle,1299.0
+712,712,2010-01-08,Singapore,Stickers for Less,Kaggle Tiers,1268.0
+713,713,2010-01-08,Singapore,Stickers for Less,Kerneler,602.0
+714,714,2010-01-08,Singapore,Stickers for Less,Kerneler Dark Mode,773.0
+715,715,2010-01-08,Singapore,Premium Sticker Mart,Holographic Goose,257.0
+716,716,2010-01-08,Singapore,Premium Sticker Mart,Kaggle,1610.0
+717,717,2010-01-08,Singapore,Premium Sticker Mart,Kaggle Tiers,1520.0
+718,718,2010-01-08,Singapore,Premium Sticker Mart,Kerneler,712.0
+719,719,2010-01-08,Singapore,Premium Sticker Mart,Kerneler Dark Mode,891.0
+720,720,2010-01-09,Canada,Discount Stickers,Holographic Goose,
+721,721,2010-01-09,Canada,Discount Stickers,Kaggle,705.0
+722,722,2010-01-09,Canada,Discount Stickers,Kaggle Tiers,604.0
+723,723,2010-01-09,Canada,Discount Stickers,Kerneler,307.0
+724,724,2010-01-09,Canada,Discount Stickers,Kerneler Dark Mode,365.0
+725,725,2010-01-09,Canada,Stickers for Less,Holographic Goose,221.0
+726,726,2010-01-09,Canada,Stickers for Less,Kaggle,1577.0
+727,727,2010-01-09,Canada,Stickers for Less,Kaggle Tiers,1183.0
+728,728,2010-01-09,Canada,Stickers for Less,Kerneler,612.0
+729,729,2010-01-09,Canada,Stickers for Less,Kerneler Dark Mode,783.0
+730,730,2010-01-09,Canada,Premium Sticker Mart,Holographic Goose,274.0
+731,731,2010-01-09,Canada,Premium Sticker Mart,Kaggle,1679.0
+732,732,2010-01-09,Canada,Premium Sticker Mart,Kaggle Tiers,1402.0
+733,733,2010-01-09,Canada,Premium Sticker Mart,Kerneler,793.0
+734,734,2010-01-09,Canada,Premium Sticker Mart,Kerneler Dark Mode,918.0
+735,735,2010-01-09,Finland,Discount Stickers,Holographic Goose,126.0
+736,736,2010-01-09,Finland,Discount Stickers,Kaggle,729.0
+737,737,2010-01-09,Finland,Discount Stickers,Kaggle Tiers,648.0
+738,738,2010-01-09,Finland,Discount Stickers,Kerneler,320.0
+739,739,2010-01-09,Finland,Discount Stickers,Kerneler Dark Mode,408.0
+740,740,2010-01-09,Finland,Stickers for Less,Holographic Goose,223.0
+741,741,2010-01-09,Finland,Stickers for Less,Kaggle,1537.0
+742,742,2010-01-09,Finland,Stickers for Less,Kaggle Tiers,1309.0
+743,743,2010-01-09,Finland,Stickers for Less,Kerneler,735.0
+744,744,2010-01-09,Finland,Stickers for Less,Kerneler Dark Mode,764.0
+745,745,2010-01-09,Finland,Premium Sticker Mart,Holographic Goose,282.0
+746,746,2010-01-09,Finland,Premium Sticker Mart,Kaggle,1756.0
+747,747,2010-01-09,Finland,Premium Sticker Mart,Kaggle Tiers,1398.0
+748,748,2010-01-09,Finland,Premium Sticker Mart,Kerneler,778.0
+749,749,2010-01-09,Finland,Premium Sticker Mart,Kerneler Dark Mode,956.0
+750,750,2010-01-09,Italy,Discount Stickers,Holographic Goose,81.0
+751,751,2010-01-09,Italy,Discount Stickers,Kaggle,620.0
+752,752,2010-01-09,Italy,Discount Stickers,Kaggle Tiers,460.0
+753,753,2010-01-09,Italy,Discount Stickers,Kerneler,240.0
+754,754,2010-01-09,Italy,Discount Stickers,Kerneler Dark Mode,313.0
+755,755,2010-01-09,Italy,Stickers for Less,Holographic Goose,184.0
+756,756,2010-01-09,Italy,Stickers for Less,Kaggle,1115.0
+757,757,2010-01-09,Italy,Stickers for Less,Kaggle Tiers,987.0
+758,758,2010-01-09,Italy,Stickers for Less,Kerneler,505.0
+759,759,2010-01-09,Italy,Stickers for Less,Kerneler Dark Mode,603.0
+760,760,2010-01-09,Italy,Premium Sticker Mart,Holographic Goose,208.0
+761,761,2010-01-09,Italy,Premium Sticker Mart,Kaggle,1320.0
+762,762,2010-01-09,Italy,Premium Sticker Mart,Kaggle Tiers,1380.0
+763,763,2010-01-09,Italy,Premium Sticker Mart,Kerneler,591.0
+764,764,2010-01-09,Italy,Premium Sticker Mart,Kerneler Dark Mode,730.0
+765,765,2010-01-09,Kenya,Discount Stickers,Holographic Goose,
+766,766,2010-01-09,Kenya,Discount Stickers,Kaggle,15.0
+767,767,2010-01-09,Kenya,Discount Stickers,Kaggle Tiers,12.0
+768,768,2010-01-09,Kenya,Discount Stickers,Kerneler,6.0
+769,769,2010-01-09,Kenya,Discount Stickers,Kerneler Dark Mode,7.0
+770,770,2010-01-09,Kenya,Stickers for Less,Holographic Goose,
+771,771,2010-01-09,Kenya,Stickers for Less,Kaggle,31.0
+772,772,2010-01-09,Kenya,Stickers for Less,Kaggle Tiers,24.0
+773,773,2010-01-09,Kenya,Stickers for Less,Kerneler,12.0
+774,774,2010-01-09,Kenya,Stickers for Less,Kerneler Dark Mode,14.0
+775,775,2010-01-09,Kenya,Premium Sticker Mart,Holographic Goose,5.0
+776,776,2010-01-09,Kenya,Premium Sticker Mart,Kaggle,34.0
+777,777,2010-01-09,Kenya,Premium Sticker Mart,Kaggle Tiers,29.0
+778,778,2010-01-09,Kenya,Premium Sticker Mart,Kerneler,14.0
+779,779,2010-01-09,Kenya,Premium Sticker Mart,Kerneler Dark Mode,17.0
+780,780,2010-01-09,Norway,Discount Stickers,Holographic Goose,207.0
+781,781,2010-01-09,Norway,Discount Stickers,Kaggle,1415.0
+782,782,2010-01-09,Norway,Discount Stickers,Kaggle Tiers,1054.0
+783,783,2010-01-09,Norway,Discount Stickers,Kerneler,547.0
+784,784,2010-01-09,Norway,Discount Stickers,Kerneler Dark Mode,654.0
+785,785,2010-01-09,Norway,Stickers for Less,Holographic Goose,457.0
+786,786,2010-01-09,Norway,Stickers for Less,Kaggle,2660.0
+787,787,2010-01-09,Norway,Stickers for Less,Kaggle Tiers,2462.0
+788,788,2010-01-09,Norway,Stickers for Less,Kerneler,1170.0
+789,789,2010-01-09,Norway,Stickers for Less,Kerneler Dark Mode,1478.0
+790,790,2010-01-09,Norway,Premium Sticker Mart,Holographic Goose,491.0
+791,791,2010-01-09,Norway,Premium Sticker Mart,Kaggle,3261.0
+792,792,2010-01-09,Norway,Premium Sticker Mart,Kaggle Tiers,2627.0
+793,793,2010-01-09,Norway,Premium Sticker Mart,Kerneler,1282.0
+794,794,2010-01-09,Norway,Premium Sticker Mart,Kerneler Dark Mode,1705.0
+795,795,2010-01-09,Singapore,Discount Stickers,Holographic Goose,111.0
+796,796,2010-01-09,Singapore,Discount Stickers,Kaggle,693.0
+797,797,2010-01-09,Singapore,Discount Stickers,Kaggle Tiers,587.0
+798,798,2010-01-09,Singapore,Discount Stickers,Kerneler,336.0
+799,799,2010-01-09,Singapore,Discount Stickers,Kerneler Dark Mode,362.0
+800,800,2010-01-09,Singapore,Stickers for Less,Holographic Goose,233.0
+801,801,2010-01-09,Singapore,Stickers for Less,Kaggle,1345.0
+802,802,2010-01-09,Singapore,Stickers for Less,Kaggle Tiers,1267.0
+803,803,2010-01-09,Singapore,Stickers for Less,Kerneler,660.0
+804,804,2010-01-09,Singapore,Stickers for Less,Kerneler Dark Mode,784.0
+805,805,2010-01-09,Singapore,Premium Sticker Mart,Holographic Goose,277.0
+806,806,2010-01-09,Singapore,Premium Sticker Mart,Kaggle,1770.0
+807,807,2010-01-09,Singapore,Premium Sticker Mart,Kaggle Tiers,1455.0
+808,808,2010-01-09,Singapore,Premium Sticker Mart,Kerneler,717.0
+809,809,2010-01-09,Singapore,Premium Sticker Mart,Kerneler Dark Mode,940.0
+810,810,2010-01-10,Canada,Discount Stickers,Holographic Goose,
+811,811,2010-01-10,Canada,Discount Stickers,Kaggle,745.0
+812,812,2010-01-10,Canada,Discount Stickers,Kaggle Tiers,699.0
+813,813,2010-01-10,Canada,Discount Stickers,Kerneler,327.0
+814,814,2010-01-10,Canada,Discount Stickers,Kerneler Dark Mode,410.0
+815,815,2010-01-10,Canada,Stickers for Less,Holographic Goose,245.0
+816,816,2010-01-10,Canada,Stickers for Less,Kaggle,1562.0
+817,817,2010-01-10,Canada,Stickers for Less,Kaggle Tiers,1323.0
+818,818,2010-01-10,Canada,Stickers for Less,Kerneler,714.0
+819,819,2010-01-10,Canada,Stickers for Less,Kerneler Dark Mode,812.0
+820,820,2010-01-10,Canada,Premium Sticker Mart,Holographic Goose,288.0
+821,821,2010-01-10,Canada,Premium Sticker Mart,Kaggle,1914.0
+822,822,2010-01-10,Canada,Premium Sticker Mart,Kaggle Tiers,1576.0
+823,823,2010-01-10,Canada,Premium Sticker Mart,Kerneler,827.0
+824,824,2010-01-10,Canada,Premium Sticker Mart,Kerneler Dark Mode,965.0
+825,825,2010-01-10,Finland,Discount Stickers,Holographic Goose,130.0
+826,826,2010-01-10,Finland,Discount Stickers,Kaggle,754.0
+827,827,2010-01-10,Finland,Discount Stickers,Kaggle Tiers,779.0
+828,828,2010-01-10,Finland,Discount Stickers,Kerneler,352.0
+829,829,2010-01-10,Finland,Discount Stickers,Kerneler Dark Mode,462.0
+830,830,2010-01-10,Finland,Stickers for Less,Holographic Goose,255.0
+831,831,2010-01-10,Finland,Stickers for Less,Kaggle,1741.0
+832,832,2010-01-10,Finland,Stickers for Less,Kaggle Tiers,1442.0
+833,833,2010-01-10,Finland,Stickers for Less,Kerneler,732.0
+834,834,2010-01-10,Finland,Stickers for Less,Kerneler Dark Mode,901.0
+835,835,2010-01-10,Finland,Premium Sticker Mart,Holographic Goose,317.0
+836,836,2010-01-10,Finland,Premium Sticker Mart,Kaggle,1903.0
+837,837,2010-01-10,Finland,Premium Sticker Mart,Kaggle Tiers,1799.0
+838,838,2010-01-10,Finland,Premium Sticker Mart,Kerneler,773.0
+839,839,2010-01-10,Finland,Premium Sticker Mart,Kerneler Dark Mode,1083.0
+840,840,2010-01-10,Italy,Discount Stickers,Holographic Goose,106.0
+841,841,2010-01-10,Italy,Discount Stickers,Kaggle,631.0
+842,842,2010-01-10,Italy,Discount Stickers,Kaggle Tiers,527.0
+843,843,2010-01-10,Italy,Discount Stickers,Kerneler,279.0
+844,844,2010-01-10,Italy,Discount Stickers,Kerneler Dark Mode,317.0
+845,845,2010-01-10,Italy,Stickers for Less,Holographic Goose,192.0
+846,846,2010-01-10,Italy,Stickers for Less,Kaggle,1219.0
+847,847,2010-01-10,Italy,Stickers for Less,Kaggle Tiers,1129.0
+848,848,2010-01-10,Italy,Stickers for Less,Kerneler,528.0
+849,849,2010-01-10,Italy,Stickers for Less,Kerneler Dark Mode,657.0
+850,850,2010-01-10,Italy,Premium Sticker Mart,Holographic Goose,216.0
+851,851,2010-01-10,Italy,Premium Sticker Mart,Kaggle,1522.0
+852,852,2010-01-10,Italy,Premium Sticker Mart,Kaggle Tiers,1314.0
+853,853,2010-01-10,Italy,Premium Sticker Mart,Kerneler,679.0
+854,854,2010-01-10,Italy,Premium Sticker Mart,Kerneler Dark Mode,848.0
+855,855,2010-01-10,Kenya,Discount Stickers,Holographic Goose,
+856,856,2010-01-10,Kenya,Discount Stickers,Kaggle,15.0
+857,857,2010-01-10,Kenya,Discount Stickers,Kaggle Tiers,13.0
+858,858,2010-01-10,Kenya,Discount Stickers,Kerneler,6.0
+859,859,2010-01-10,Kenya,Discount Stickers,Kerneler Dark Mode,8.0
+860,860,2010-01-10,Kenya,Stickers for Less,Holographic Goose,5.0
+861,861,2010-01-10,Kenya,Stickers for Less,Kaggle,29.0
+862,862,2010-01-10,Kenya,Stickers for Less,Kaggle Tiers,26.0
+863,863,2010-01-10,Kenya,Stickers for Less,Kerneler,13.0
+864,864,2010-01-10,Kenya,Stickers for Less,Kerneler Dark Mode,17.0
+865,865,2010-01-10,Kenya,Premium Sticker Mart,Holographic Goose,5.0
+866,866,2010-01-10,Kenya,Premium Sticker Mart,Kaggle,37.0
+867,867,2010-01-10,Kenya,Premium Sticker Mart,Kaggle Tiers,33.0
+868,868,2010-01-10,Kenya,Premium Sticker Mart,Kerneler,16.0
+869,869,2010-01-10,Kenya,Premium Sticker Mart,Kerneler Dark Mode,21.0
+870,870,2010-01-10,Norway,Discount Stickers,Holographic Goose,209.0
+871,871,2010-01-10,Norway,Discount Stickers,Kaggle,1404.0
+872,872,2010-01-10,Norway,Discount Stickers,Kaggle Tiers,1255.0
+873,873,2010-01-10,Norway,Discount Stickers,Kerneler,600.0
+874,874,2010-01-10,Norway,Discount Stickers,Kerneler Dark Mode,850.0
+875,875,2010-01-10,Norway,Stickers for Less,Holographic Goose,497.0
+876,876,2010-01-10,Norway,Stickers for Less,Kaggle,2816.0
+877,877,2010-01-10,Norway,Stickers for Less,Kaggle Tiers,2741.0
+878,878,2010-01-10,Norway,Stickers for Less,Kerneler,1307.0
+879,879,2010-01-10,Norway,Stickers for Less,Kerneler Dark Mode,1572.0
+880,880,2010-01-10,Norway,Premium Sticker Mart,Holographic Goose,511.0
+881,881,2010-01-10,Norway,Premium Sticker Mart,Kaggle,3540.0
+882,882,2010-01-10,Norway,Premium Sticker Mart,Kaggle Tiers,3066.0
+883,883,2010-01-10,Norway,Premium Sticker Mart,Kerneler,1527.0
+884,884,2010-01-10,Norway,Premium Sticker Mart,Kerneler Dark Mode,1713.0
+885,885,2010-01-10,Singapore,Discount Stickers,Holographic Goose,121.0
+886,886,2010-01-10,Singapore,Discount Stickers,Kaggle,832.0
+887,887,2010-01-10,Singapore,Discount Stickers,Kaggle Tiers,617.0
+888,888,2010-01-10,Singapore,Discount Stickers,Kerneler,348.0
+889,889,2010-01-10,Singapore,Discount Stickers,Kerneler Dark Mode,424.0
+890,890,2010-01-10,Singapore,Stickers for Less,Holographic Goose,246.0
+891,891,2010-01-10,Singapore,Stickers for Less,Kaggle,1426.0
+892,892,2010-01-10,Singapore,Stickers for Less,Kaggle Tiers,1359.0
+893,893,2010-01-10,Singapore,Stickers for Less,Kerneler,696.0
+894,894,2010-01-10,Singapore,Stickers for Less,Kerneler Dark Mode,868.0
+895,895,2010-01-10,Singapore,Premium Sticker Mart,Holographic Goose,281.0
+896,896,2010-01-10,Singapore,Premium Sticker Mart,Kaggle,1703.0
+897,897,2010-01-10,Singapore,Premium Sticker Mart,Kaggle Tiers,1753.0
+898,898,2010-01-10,Singapore,Premium Sticker Mart,Kerneler,784.0
+899,899,2010-01-10,Singapore,Premium Sticker Mart,Kerneler Dark Mode,990.0
+900,900,2010-01-11,Canada,Discount Stickers,Holographic Goose,
+901,901,2010-01-11,Canada,Discount Stickers,Kaggle,632.0
+902,902,2010-01-11,Canada,Discount Stickers,Kaggle Tiers,580.0
+903,903,2010-01-11,Canada,Discount Stickers,Kerneler,269.0
+904,904,2010-01-11,Canada,Discount Stickers,Kerneler Dark Mode,309.0
+905,905,2010-01-11,Canada,Stickers for Less,Holographic Goose,
+906,906,2010-01-11,Canada,Stickers for Less,Kaggle,1325.0
+907,907,2010-01-11,Canada,Stickers for Less,Kaggle Tiers,1000.0
+908,908,2010-01-11,Canada,Stickers for Less,Kerneler,530.0
+909,909,2010-01-11,Canada,Stickers for Less,Kerneler Dark Mode,768.0
+910,910,2010-01-11,Canada,Premium Sticker Mart,Holographic Goose,242.0
+911,911,2010-01-11,Canada,Premium Sticker Mart,Kaggle,1521.0
+912,912,2010-01-11,Canada,Premium Sticker Mart,Kaggle Tiers,1340.0
+913,913,2010-01-11,Canada,Premium Sticker Mart,Kerneler,733.0
+914,914,2010-01-11,Canada,Premium Sticker Mart,Kerneler Dark Mode,850.0
+915,915,2010-01-11,Finland,Discount Stickers,Holographic Goose,102.0
+916,916,2010-01-11,Finland,Discount Stickers,Kaggle,644.0
+917,917,2010-01-11,Finland,Discount Stickers,Kaggle Tiers,587.0
+918,918,2010-01-11,Finland,Discount Stickers,Kerneler,287.0
+919,919,2010-01-11,Finland,Discount Stickers,Kerneler Dark Mode,354.0
+920,920,2010-01-11,Finland,Stickers for Less,Holographic Goose,210.0
+921,921,2010-01-11,Finland,Stickers for Less,Kaggle,1210.0
+922,922,2010-01-11,Finland,Stickers for Less,Kaggle Tiers,1191.0
+923,923,2010-01-11,Finland,Stickers for Less,Kerneler,586.0
+924,924,2010-01-11,Finland,Stickers for Less,Kerneler Dark Mode,715.0
+925,925,2010-01-11,Finland,Premium Sticker Mart,Holographic Goose,220.0
+926,926,2010-01-11,Finland,Premium Sticker Mart,Kaggle,1511.0
+927,927,2010-01-11,Finland,Premium Sticker Mart,Kaggle Tiers,1385.0
+928,928,2010-01-11,Finland,Premium Sticker Mart,Kerneler,627.0
+929,929,2010-01-11,Finland,Premium Sticker Mart,Kerneler Dark Mode,802.0
+930,930,2010-01-11,Italy,Discount Stickers,Holographic Goose,75.0
+931,931,2010-01-11,Italy,Discount Stickers,Kaggle,506.0
+932,932,2010-01-11,Italy,Discount Stickers,Kaggle Tiers,436.0
+933,933,2010-01-11,Italy,Discount Stickers,Kerneler,207.0
+934,934,2010-01-11,Italy,Discount Stickers,Kerneler Dark Mode,305.0
+935,935,2010-01-11,Italy,Stickers for Less,Holographic Goose,164.0
+936,936,2010-01-11,Italy,Stickers for Less,Kaggle,1017.0
+937,937,2010-01-11,Italy,Stickers for Less,Kaggle Tiers,852.0
+938,938,2010-01-11,Italy,Stickers for Less,Kerneler,422.0
+939,939,2010-01-11,Italy,Stickers for Less,Kerneler Dark Mode,538.0
+940,940,2010-01-11,Italy,Premium Sticker Mart,Holographic Goose,190.0
+941,941,2010-01-11,Italy,Premium Sticker Mart,Kaggle,1108.0
+942,942,2010-01-11,Italy,Premium Sticker Mart,Kaggle Tiers,1017.0
+943,943,2010-01-11,Italy,Premium Sticker Mart,Kerneler,572.0
+944,944,2010-01-11,Italy,Premium Sticker Mart,Kerneler Dark Mode,629.0
+945,945,2010-01-11,Kenya,Discount Stickers,Holographic Goose,
+946,946,2010-01-11,Kenya,Discount Stickers,Kaggle,12.0
+947,947,2010-01-11,Kenya,Discount Stickers,Kaggle Tiers,11.0
+948,948,2010-01-11,Kenya,Discount Stickers,Kerneler,5.0
+949,949,2010-01-11,Kenya,Discount Stickers,Kerneler Dark Mode,6.0
+950,950,2010-01-11,Kenya,Stickers for Less,Holographic Goose,
+951,951,2010-01-11,Kenya,Stickers for Less,Kaggle,27.0
+952,952,2010-01-11,Kenya,Stickers for Less,Kaggle Tiers,22.0
+953,953,2010-01-11,Kenya,Stickers for Less,Kerneler,11.0
+954,954,2010-01-11,Kenya,Stickers for Less,Kerneler Dark Mode,14.0
+955,955,2010-01-11,Kenya,Premium Sticker Mart,Holographic Goose,
+956,956,2010-01-11,Kenya,Premium Sticker Mart,Kaggle,30.0
+957,957,2010-01-11,Kenya,Premium Sticker Mart,Kaggle Tiers,24.0
+958,958,2010-01-11,Kenya,Premium Sticker Mart,Kerneler,13.0
+959,959,2010-01-11,Kenya,Premium Sticker Mart,Kerneler Dark Mode,17.0
+960,960,2010-01-11,Norway,Discount Stickers,Holographic Goose,187.0
+961,961,2010-01-11,Norway,Discount Stickers,Kaggle,1115.0
+962,962,2010-01-11,Norway,Discount Stickers,Kaggle Tiers,1024.0
+963,963,2010-01-11,Norway,Discount Stickers,Kerneler,487.0
+964,964,2010-01-11,Norway,Discount Stickers,Kerneler Dark Mode,615.0
+965,965,2010-01-11,Norway,Stickers for Less,Holographic Goose,385.0
+966,966,2010-01-11,Norway,Stickers for Less,Kaggle,2201.0
+967,967,2010-01-11,Norway,Stickers for Less,Kaggle Tiers,1812.0
+968,968,2010-01-11,Norway,Stickers for Less,Kerneler,1011.0
+969,969,2010-01-11,Norway,Stickers for Less,Kerneler Dark Mode,1305.0
+970,970,2010-01-11,Norway,Premium Sticker Mart,Holographic Goose,425.0
+971,971,2010-01-11,Norway,Premium Sticker Mart,Kaggle,2560.0
+972,972,2010-01-11,Norway,Premium Sticker Mart,Kaggle Tiers,2427.0
+973,973,2010-01-11,Norway,Premium Sticker Mart,Kerneler,1092.0
+974,974,2010-01-11,Norway,Premium Sticker Mart,Kerneler Dark Mode,1543.0
+975,975,2010-01-11,Singapore,Discount Stickers,Holographic Goose,97.0
+976,976,2010-01-11,Singapore,Discount Stickers,Kaggle,627.0
+977,977,2010-01-11,Singapore,Discount Stickers,Kaggle Tiers,549.0
+978,978,2010-01-11,Singapore,Discount Stickers,Kerneler,270.0
+979,979,2010-01-11,Singapore,Discount Stickers,Kerneler Dark Mode,342.0
+980,980,2010-01-11,Singapore,Stickers for Less,Holographic Goose,194.0
+981,981,2010-01-11,Singapore,Stickers for Less,Kaggle,1186.0
+982,982,2010-01-11,Singapore,Stickers for Less,Kaggle Tiers,1001.0
+983,983,2010-01-11,Singapore,Stickers for Less,Kerneler,557.0
+984,984,2010-01-11,Singapore,Stickers for Less,Kerneler Dark Mode,698.0
+985,985,2010-01-11,Singapore,Premium Sticker Mart,Holographic Goose,231.0
+986,986,2010-01-11,Singapore,Premium Sticker Mart,Kaggle,1437.0
+987,987,2010-01-11,Singapore,Premium Sticker Mart,Kaggle Tiers,1246.0
+988,988,2010-01-11,Singapore,Premium Sticker Mart,Kerneler,685.0
+989,989,2010-01-11,Singapore,Premium Sticker Mart,Kerneler Dark Mode,782.0
+990,990,2010-01-12,Canada,Discount Stickers,Holographic Goose,
+991,991,2010-01-12,Canada,Discount Stickers,Kaggle,577.0
+992,992,2010-01-12,Canada,Discount Stickers,Kaggle Tiers,517.0
+993,993,2010-01-12,Canada,Discount Stickers,Kerneler,265.0
+994,994,2010-01-12,Canada,Discount Stickers,Kerneler Dark Mode,330.0
+995,995,2010-01-12,Canada,Stickers for Less,Holographic Goose,200.0
+996,996,2010-01-12,Canada,Stickers for Less,Kaggle,1159.0
+997,997,2010-01-12,Canada,Stickers for Less,Kaggle Tiers,993.0
+998,998,2010-01-12,Canada,Stickers for Less,Kerneler,530.0
+999,999,2010-01-12,Canada,Stickers for Less,Kerneler Dark Mode,669.0
+1000,1000,2010-01-12,Canada,Premium Sticker Mart,Holographic Goose,243.0
+1001,1001,2010-01-12,Canada,Premium Sticker Mart,Kaggle,1579.0
+1002,1002,2010-01-12,Canada,Premium Sticker Mart,Kaggle Tiers,1298.0
+1003,1003,2010-01-12,Canada,Premium Sticker Mart,Kerneler,677.0
+1004,1004,2010-01-12,Canada,Premium Sticker Mart,Kerneler Dark Mode,828.0
+1005,1005,2010-01-12,Finland,Discount Stickers,Holographic Goose,108.0
+1006,1006,2010-01-12,Finland,Discount Stickers,Kaggle,621.0
+1007,1007,2010-01-12,Finland,Discount Stickers,Kaggle Tiers,537.0
+1008,1008,2010-01-12,Finland,Discount Stickers,Kerneler,280.0
+1009,1009,2010-01-12,Finland,Discount Stickers,Kerneler Dark Mode,321.0
+1010,1010,2010-01-12,Finland,Stickers for Less,Holographic Goose,199.0
+1011,1011,2010-01-12,Finland,Stickers for Less,Kaggle,1269.0
+1012,1012,2010-01-12,Finland,Stickers for Less,Kaggle Tiers,1117.0
+1013,1013,2010-01-12,Finland,Stickers for Less,Kerneler,529.0
+1014,1014,2010-01-12,Finland,Stickers for Less,Kerneler Dark Mode,766.0
+1015,1015,2010-01-12,Finland,Premium Sticker Mart,Holographic Goose,249.0
+1016,1016,2010-01-12,Finland,Premium Sticker Mart,Kaggle,1467.0
+1017,1017,2010-01-12,Finland,Premium Sticker Mart,Kaggle Tiers,1444.0
+1018,1018,2010-01-12,Finland,Premium Sticker Mart,Kerneler,667.0
+1019,1019,2010-01-12,Finland,Premium Sticker Mart,Kerneler Dark Mode,864.0
+1020,1020,2010-01-12,Italy,Discount Stickers,Holographic Goose,82.0
+1021,1021,2010-01-12,Italy,Discount Stickers,Kaggle,456.0
+1022,1022,2010-01-12,Italy,Discount Stickers,Kaggle Tiers,422.0
+1023,1023,2010-01-12,Italy,Discount Stickers,Kerneler,234.0
+1024,1024,2010-01-12,Italy,Discount Stickers,Kerneler Dark Mode,287.0
+1025,1025,2010-01-12,Italy,Stickers for Less,Holographic Goose,164.0
+1026,1026,2010-01-12,Italy,Stickers for Less,Kaggle,1093.0
+1027,1027,2010-01-12,Italy,Stickers for Less,Kaggle Tiers,878.0
+1028,1028,2010-01-12,Italy,Stickers for Less,Kerneler,449.0
+1029,1029,2010-01-12,Italy,Stickers for Less,Kerneler Dark Mode,541.0
+1030,1030,2010-01-12,Italy,Premium Sticker Mart,Holographic Goose,176.0
+1031,1031,2010-01-12,Italy,Premium Sticker Mart,Kaggle,1138.0
+1032,1032,2010-01-12,Italy,Premium Sticker Mart,Kaggle Tiers,977.0
+1033,1033,2010-01-12,Italy,Premium Sticker Mart,Kerneler,523.0
+1034,1034,2010-01-12,Italy,Premium Sticker Mart,Kerneler Dark Mode,705.0
+1035,1035,2010-01-12,Kenya,Discount Stickers,Holographic Goose,
+1036,1036,2010-01-12,Kenya,Discount Stickers,Kaggle,13.0
+1037,1037,2010-01-12,Kenya,Discount Stickers,Kaggle Tiers,11.0
+1038,1038,2010-01-12,Kenya,Discount Stickers,Kerneler,5.0
+1039,1039,2010-01-12,Kenya,Discount Stickers,Kerneler Dark Mode,6.0
+1040,1040,2010-01-12,Kenya,Stickers for Less,Holographic Goose,
+1041,1041,2010-01-12,Kenya,Stickers for Less,Kaggle,25.0
+1042,1042,2010-01-12,Kenya,Stickers for Less,Kaggle Tiers,23.0
+1043,1043,2010-01-12,Kenya,Stickers for Less,Kerneler,10.0
+1044,1044,2010-01-12,Kenya,Stickers for Less,Kerneler Dark Mode,13.0
+1045,1045,2010-01-12,Kenya,Premium Sticker Mart,Holographic Goose,
+1046,1046,2010-01-12,Kenya,Premium Sticker Mart,Kaggle,33.0
+1047,1047,2010-01-12,Kenya,Premium Sticker Mart,Kaggle Tiers,26.0
+1048,1048,2010-01-12,Kenya,Premium Sticker Mart,Kerneler,12.0
+1049,1049,2010-01-12,Kenya,Premium Sticker Mart,Kerneler Dark Mode,15.0
+1050,1050,2010-01-12,Norway,Discount Stickers,Holographic Goose,196.0
+1051,1051,2010-01-12,Norway,Discount Stickers,Kaggle,1140.0
+1052,1052,2010-01-12,Norway,Discount Stickers,Kaggle Tiers,1040.0
+1053,1053,2010-01-12,Norway,Discount Stickers,Kerneler,490.0
+1054,1054,2010-01-12,Norway,Discount Stickers,Kerneler Dark Mode,585.0
+1055,1055,2010-01-12,Norway,Stickers for Less,Holographic Goose,393.0
+1056,1056,2010-01-12,Norway,Stickers for Less,Kaggle,2295.0
+1057,1057,2010-01-12,Norway,Stickers for Less,Kaggle Tiers,2033.0
+1058,1058,2010-01-12,Norway,Stickers for Less,Kerneler,955.0
+1059,1059,2010-01-12,Norway,Stickers for Less,Kerneler Dark Mode,1264.0
+1060,1060,2010-01-12,Norway,Premium Sticker Mart,Holographic Goose,406.0
+1061,1061,2010-01-12,Norway,Premium Sticker Mart,Kaggle,2697.0
+1062,1062,2010-01-12,Norway,Premium Sticker Mart,Kaggle Tiers,2598.0
+1063,1063,2010-01-12,Norway,Premium Sticker Mart,Kerneler,1285.0
+1064,1064,2010-01-12,Norway,Premium Sticker Mart,Kerneler Dark Mode,1419.0
+1065,1065,2010-01-12,Singapore,Discount Stickers,Holographic Goose,94.0
+1066,1066,2010-01-12,Singapore,Discount Stickers,Kaggle,610.0
+1067,1067,2010-01-12,Singapore,Discount Stickers,Kaggle Tiers,519.0
+1068,1068,2010-01-12,Singapore,Discount Stickers,Kerneler,255.0
+1069,1069,2010-01-12,Singapore,Discount Stickers,Kerneler Dark Mode,354.0
+1070,1070,2010-01-12,Singapore,Stickers for Less,Holographic Goose,185.0
+1071,1071,2010-01-12,Singapore,Stickers for Less,Kaggle,1284.0
+1072,1072,2010-01-12,Singapore,Stickers for Less,Kaggle Tiers,1115.0
+1073,1073,2010-01-12,Singapore,Stickers for Less,Kerneler,470.0
+1074,1074,2010-01-12,Singapore,Stickers for Less,Kerneler Dark Mode,612.0
+1075,1075,2010-01-12,Singapore,Premium Sticker Mart,Holographic Goose,216.0
+1076,1076,2010-01-12,Singapore,Premium Sticker Mart,Kaggle,1500.0
+1077,1077,2010-01-12,Singapore,Premium Sticker Mart,Kaggle Tiers,1483.0
+1078,1078,2010-01-12,Singapore,Premium Sticker Mart,Kerneler,663.0
+1079,1079,2010-01-12,Singapore,Premium Sticker Mart,Kerneler Dark Mode,772.0
+1080,1080,2010-01-13,Canada,Discount Stickers,Holographic Goose,
