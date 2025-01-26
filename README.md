@@ -16,5 +16,5 @@ Started new project
 - Started our on our own ideas
 - to then come together compare models
 - then improve on the best idea
-- Not much progress was made as everyone did not know how build the required thing
+- Not much progress was made as everyone did not know how build the time series thing
   
