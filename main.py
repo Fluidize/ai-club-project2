@@ -28,5 +28,6 @@ def cleanup(X,column):
 
 X = data.drop(columns=['num_sold'],inplace=False)
 X = cleanup(X, column=X.columns.tolist())
+y = data['num_sold']
 
 print(X.head())
