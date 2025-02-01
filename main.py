@@ -1,4 +1,6 @@
-import sklearn
+from sklearn.neural_network import MLPRegressor
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import mean_squared_error
 import pandas as pd
 import os
 import numpy
@@ -28,6 +30,13 @@ def cleanup(X,column):
 
 X = data.drop(columns=['num_sold'],inplace=False)
 X = cleanup(X, column=X.columns.tolist())
-y = data['num_sold']
+y = data['num_sold'].fillna(0)
 
-print(X.head())
+X_train, X_test, y_train, y_test = train_test_split(X, y, shuffle=False, test_size=0.5)
+
+model = MLPRegressor(hidden_layer_sizes=(100,100), verbose=True, max_iter=1000)
+model.fit(X_train,y_train)
+
+yhat = model.predict(X_test)
+
+print(mean_squared_error(y_test,yhat))
