@@ -18,3 +18,17 @@ Started new project
 - then improve on the best idea
 - Not much progress was made as everyone did not know how build the time series thing
   
+
+
+2/1/2025
+members: Roy, Max, Jackson
+
+
+
+Cleanup of code, Predictions.
+
+
+
+-Cleaning up code
+-Predictions   
+found out that there are missing sales data
