@@ -65,7 +65,6 @@ y = data['num_sold'].fillna(0)
 
 X_train, X_test, y_train, y_test = train_test_split(X, y, shuffle=False, test_size=0.5)
 
-model = MLPRegressor(hidden_layer_sizes=(50,50), alpha=0.0001,  verbose=True, max_iter=1000)
 model.fit(X_train,y_train)
 
 yhat = model.predict(X_test)
