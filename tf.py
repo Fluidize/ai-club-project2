@@ -1,11 +1,11 @@
-from sklearn.neural_network import MLPRegressor
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_squared_error
 import pandas as pd
 import os
 import numpy
 import pickle
-
+import tensorflow as tf
+import keras
 
 data = pd.read_csv('train_chunk.csv')
 
@@ -35,10 +35,19 @@ y = data['num_sold'].fillna(0)
 
 X_train, X_test, y_train, y_test = train_test_split(X, y, shuffle=False, test_size=0.5)
 
-model = MLPRegressor(hidden_layer_sizes=(200,50), verbose=True,alpha=0.00001)
-model.fit(X_train,y_train)
+
+loss_fn = tf.keras.losses.MeanSquaredError()
+model = tf.keras.models.Sequential([
+    tf.keras.layers.Input(shape=(4,)),
+    tf.keras.layers.Dense(128, activation='relu'),
+    tf.keras.layers.Dense(1)
+])
+model.compile(optimizer='adam', loss=loss_fn, metrics=['accuracy'])
+model.fit(X_train,y_train, epochs=10)
 
 yhat = model.predict(X_test)
+
+print(y_test.head)
 
 print(mean_squared_error(y_test,yhat))
 
